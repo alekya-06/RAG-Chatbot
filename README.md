@@ -1,3 +1,1 @@
-# RAG-Chatbot
-
-creating a very basic RAG based movie chatbot using TMDB (for movies) and HuggingFace models
+Hi there! Here I attempt to build a RAG based chatbot based on a movie database 
