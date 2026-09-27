@@ -1,0 +1,56 @@
+{
+  "movie_id": 1294189,
+  "content": {
+    "title": "The Mongoose",
+    "original_title": "The Mongoose",
+    "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
+    "tagline": ""
+  },
+  "embedding_text": "Title: The Mongoose\n\nOverview: A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.\n\nGenres: Action, Thriller\n\nProduction Companies: Code Entertainment, The Solution\n\nProduction Countries: United States of America\n\nSpoken Languages: English",
+  "metadata": {
+    "imdb_id": "tt13611778",
+    "release_date": "2026-10-29",
+    "release_year": 2026,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 99,
+    "status": "Post Production",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "spoken_languages": [
+      "English"
+    ],
+    "production_countries": [
+      "United States of America"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "popularity": 249.4488,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": [
+      {
+        "id": 14589,
+        "name": "Code Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 33768,
+        "name": "The Solution",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "",
+    "poster_path": "/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+    "backdrop_path": "/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "movie_id": 299534,
+  "content": {
+    "title": "Avengers: Endgame",
+    "original_title": "Avengers: Endgame",
+    "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+    "tagline": "Avenge the fallen."
+  },
+  "embedding_text": "Title: Avengers: Endgame\n\nTagline: Avenge the fallen.\n\nOverview: After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.\n\nGenres: Adventure, Science Fiction, Action\n\nCollection: The Avengers Collection\n\nProduction Companies: Marvel Studios\n\nProduction Countries: United States of America\n\nSpoken Languages: English, Japanese, Xhosa",
+  "metadata": {
+    "imdb_id": "tt4154796",
+    "release_date": "2019-04-24",
+    "release_year": 2019,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 181,
+    "status": "Released",
+    "genres": [
+      "Adventure",
+      "Science Fiction",
+      "Action"
+    ],
+    "spoken_languages": [
+      "English",
+      "Japanese",
+      "Xhosa"
+    ],
+    "production_countries": [
+      "United States of America"
+    ],
+    "budget": 356000000,
+    "revenue": 2799439100,
+    "popularity": 98.7212,
+    "vote_average": 8.244,
+    "vote_count": 28765
+  },
+  "relationships": {
+    "collection": {
+      "id": 86311,
+      "name": "The Avengers Collection"
+    },
+    "production_companies": [
+      {
+        "id": 420,
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://www.marvel.com/movies/avengers-endgame",
+    "poster_path": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+    "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg"
+  }
+}

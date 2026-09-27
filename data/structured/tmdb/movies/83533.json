@@ -1,0 +1,65 @@
+{
+  "movie_id": 83533,
+  "content": {
+    "title": "Avatar: Fire and Ash",
+    "original_title": "Avatar: Fire and Ash",
+    "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+    "tagline": "The world of Pandora will change forever."
+  },
+  "embedding_text": "Title: Avatar: Fire and Ash\n\nTagline: The world of Pandora will change forever.\n\nOverview: In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.\n\nGenres: Science Fiction, Adventure, Fantasy\n\nCollection: Avatar Collection\n\nProduction Companies: 20th Century Studios, Lightstorm Entertainment, TSG Entertainment\n\nProduction Countries: United States of America\n\nSpoken Languages: English",
+  "metadata": {
+    "imdb_id": "tt1757678",
+    "release_date": "2025-12-17",
+    "release_year": 2025,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 198,
+    "status": "Released",
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Fantasy"
+    ],
+    "spoken_languages": [
+      "English"
+    ],
+    "production_countries": [
+      "United States of America"
+    ],
+    "budget": 350000000,
+    "revenue": 1485999890,
+    "popularity": 73.0704,
+    "vote_average": 7.644,
+    "vote_count": 4368
+  },
+  "relationships": {
+    "collection": {
+      "id": 87096,
+      "name": "Avatar Collection"
+    },
+    "production_companies": [
+      {
+        "id": 127928,
+        "name": "20th Century Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 574,
+        "name": "Lightstorm Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 22213,
+        "name": "TSG Entertainment",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://www.avatar.com/movies/avatar-fire-and-ash",
+    "poster_path": "/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+    "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg"
+  }
+}

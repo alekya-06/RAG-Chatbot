@@ -1,0 +1,56 @@
+{
+  "movie_id": 42573,
+  "content": {
+    "title": "Dr. Jekyll Likes Them Hot",
+    "original_title": "Dottor Jekyll e gentile signora",
+    "overview": "A lusty young woman decides to use her sexual powers to \"tame\" the evil and murderous Dr. Jekyll.",
+    "tagline": ""
+  },
+  "embedding_text": "Title: Dr. Jekyll Likes Them Hot\n\nOriginal Title: Dottor Jekyll e gentile signora\n\nOverview: A lusty young woman decides to use her sexual powers to \"tame\" the evil and murderous Dr. Jekyll.\n\nGenres: Horror, Comedy\n\nProduction Companies: Medusa Distribuzione, Dania Film\n\nProduction Countries: Italy\n\nSpoken Languages: Italian",
+  "metadata": {
+    "imdb_id": "tt0079068",
+    "release_date": "1979-08-31",
+    "release_year": 1979,
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "runtime_minutes": 107,
+    "status": "Released",
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "spoken_languages": [
+      "Italian"
+    ],
+    "production_countries": [
+      "Italy"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "popularity": 33.0166,
+    "vote_average": 5.0,
+    "vote_count": 30
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": [
+      {
+        "id": 15868,
+        "name": "Medusa Distribuzione",
+        "origin_country": "IT"
+      },
+      {
+        "id": 1701,
+        "name": "Dania Film",
+        "origin_country": "IT"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "",
+    "poster_path": "/zneBy6Rpjq6cTnoQcoKbhs3Q0sL.jpg",
+    "backdrop_path": "/eM17nYEf4uIgVPjNrTh7qf6ApoZ.jpg"
+  }
+}

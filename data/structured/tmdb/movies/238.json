@@ -1,0 +1,66 @@
+{
+  "movie_id": 238,
+  "content": {
+    "title": "The Godfather",
+    "original_title": "The Godfather",
+    "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+    "tagline": "An offer you can't refuse."
+  },
+  "embedding_text": "Title: The Godfather\n\nTagline: An offer you can't refuse.\n\nOverview: Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.\n\nGenres: Drama, Crime\n\nCollection: The Godfather Collection\n\nProduction Companies: Paramount Pictures, Alfran Productions, Albert S. Ruddy Productions\n\nProduction Countries: United States of America\n\nSpoken Languages: English, Italian, Latin",
+  "metadata": {
+    "imdb_id": "tt0068646",
+    "release_date": "1972-03-14",
+    "release_year": 1972,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 175,
+    "status": "Released",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "spoken_languages": [
+      "English",
+      "Italian",
+      "Latin"
+    ],
+    "production_countries": [
+      "United States of America"
+    ],
+    "budget": 6000000,
+    "revenue": 245066411,
+    "popularity": 62.1179,
+    "vote_average": 8.687,
+    "vote_count": 23626
+  },
+  "relationships": {
+    "collection": {
+      "id": 230,
+      "name": "The Godfather Collection"
+    },
+    "production_companies": [
+      {
+        "id": 4,
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10211,
+        "name": "Alfran Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 16311,
+        "name": "Albert S. Ruddy Productions",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "http://www.thegodfather.com/",
+    "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "backdrop_path": "/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg"
+  }
+}

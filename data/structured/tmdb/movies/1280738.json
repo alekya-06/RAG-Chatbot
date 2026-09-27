@@ -1,0 +1,69 @@
+{
+  "movie_id": 1280738,
+  "content": {
+    "title": "The Furious",
+    "original_title": "火遮眼",
+    "overview": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.",
+    "tagline": "To save their loved ones, they will fight everyone."
+  },
+  "embedding_text": "Title: The Furious\n\nOriginal Title: 火遮眼\n\nTagline: To save their loved ones, they will fight everyone.\n\nOverview: After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.\n\nGenres: Action, Crime, Thriller\n\nProduction Companies: Edko Films, XYZ Films, Zhejiang Hengdian Film Production\n\nProduction Countries: Hong Kong, China, United States of America\n\nSpoken Languages: English, Indonesian, Mandarin, Tagalog, Thai",
+  "metadata": {
+    "imdb_id": "tt33311069",
+    "release_date": "2026-06-10",
+    "release_year": 2026,
+    "original_language": "zh",
+    "origin_country": [
+      "CN",
+      "HK"
+    ],
+    "runtime_minutes": 113,
+    "status": "Released",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "spoken_languages": [
+      "English",
+      "Indonesian",
+      "Mandarin",
+      "Tagalog",
+      "Thai"
+    ],
+    "production_countries": [
+      "Hong Kong",
+      "China",
+      "United States of America"
+    ],
+    "budget": 20000000,
+    "revenue": 39745080,
+    "popularity": 54.3778,
+    "vote_average": 8.189,
+    "vote_count": 756
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": [
+      {
+        "id": 10284,
+        "name": "Edko Films",
+        "origin_country": "HK"
+      },
+      {
+        "id": 12142,
+        "name": "XYZ Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 131092,
+        "name": "Zhejiang Hengdian Film Production",
+        "origin_country": "CN"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://www.lionsgate.com/movies/the-furious",
+    "poster_path": "/ivQ1Z3lI1xWvAeGDHBw3CCYZDGJ.jpg",
+    "backdrop_path": "/i0eR9O1FnCgBm1cH8WwqxGbAXMS.jpg"
+  }
+}

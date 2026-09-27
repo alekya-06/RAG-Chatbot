@@ -1,0 +1,62 @@
+{
+  "movie_id": 1560520,
+  "content": {
+    "title": "Batman: Knightfall Part 1: Knightfall",
+    "original_title": "Batman: Knightfall Part 1: Knightfall",
+    "overview": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
+    "tagline": ""
+  },
+  "embedding_text": "Title: Batman: Knightfall Part 1: Knightfall\n\nOverview: Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!\n\nGenres: Animation, Action, Adventure, Drama\n\nCollection: Batman: Knightfall Collection\n\nProduction Companies: Warner Bros. Animation, DC\n\nProduction Countries: United States of America\n\nSpoken Languages: English, Spanish",
+  "metadata": {
+    "imdb_id": "tt32333324",
+    "release_date": "2026-06-23",
+    "release_year": 2026,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 79,
+    "status": "Released",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "spoken_languages": [
+      "English",
+      "Spanish"
+    ],
+    "production_countries": [
+      "United States of America"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "popularity": 70.0571,
+    "vote_average": 9.2,
+    "vote_count": 379
+  },
+  "relationships": {
+    "collection": {
+      "id": 1560779,
+      "name": "Batman: Knightfall Collection"
+    },
+    "production_companies": [
+      {
+        "id": 2785,
+        "name": "Warner Bros. Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 429,
+        "name": "DC",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://www.warnerbros.com/movies/batman-knightfall-part-1-knightfall",
+    "poster_path": "/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+    "backdrop_path": "/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg"
+  }
+}

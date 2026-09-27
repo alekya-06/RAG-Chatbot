@@ -1,0 +1,50 @@
+{
+  "movie_id": 1751701,
+  "content": {
+    "title": "After Impact",
+    "original_title": "After Impact",
+    "overview": "After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family’s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he's not as alone as he believed.",
+    "tagline": ""
+  },
+  "embedding_text": "Title: After Impact\n\nOverview: After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family’s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he's not as alone as he believed.\n\nGenres: Science Fiction, Drama, Thriller\n\nProduction Companies: PWA Media Ltd\n\nProduction Countries: New Zealand",
+  "metadata": {
+    "imdb_id": "tt36809539",
+    "release_date": "2026-09-15",
+    "release_year": 2026,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 95,
+    "status": "Released",
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Thriller"
+    ],
+    "spoken_languages": [],
+    "production_countries": [
+      "New Zealand"
+    ],
+    "budget": 100000,
+    "revenue": 0,
+    "popularity": 146.4213,
+    "vote_average": 5.214,
+    "vote_count": 7
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": [
+      {
+        "id": 307908,
+        "name": "PWA Media Ltd",
+        "origin_country": ""
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://michielrensen.com/catalogue/after-impact",
+    "poster_path": "/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
+    "backdrop_path": "/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg"
+  }
+}

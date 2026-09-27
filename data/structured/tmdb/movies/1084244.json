@@ -1,0 +1,57 @@
+{
+  "movie_id": 1084244,
+  "content": {
+    "title": "Toy Story 5",
+    "original_title": "Toy Story 5",
+    "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+    "tagline": "It's on."
+  },
+  "embedding_text": "Title: Toy Story 5\n\nTagline: It's on.\n\nOverview: When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.\n\nGenres: Animation, Family, Comedy, Adventure\n\nCollection: Toy Story Collection\n\nProduction Companies: Pixar\n\nProduction Countries: United States of America\n\nSpoken Languages: English, Spanish",
+  "metadata": {
+    "imdb_id": "tt29355505",
+    "release_date": "2026-06-17",
+    "release_year": 2026,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 102,
+    "status": "Released",
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Adventure"
+    ],
+    "spoken_languages": [
+      "English",
+      "Spanish"
+    ],
+    "production_countries": [
+      "United States of America"
+    ],
+    "budget": 250000000,
+    "revenue": 1136476240,
+    "popularity": 170.4058,
+    "vote_average": 8.344,
+    "vote_count": 2284
+  },
+  "relationships": {
+    "collection": {
+      "id": 10194,
+      "name": "Toy Story Collection"
+    },
+    "production_companies": [
+      {
+        "id": 3,
+        "name": "Pixar",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://movies.disney.com/toy-story-5",
+    "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+    "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
+  }
+}

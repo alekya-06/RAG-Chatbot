@@ -1,0 +1,66 @@
+{
+  "movie_id": 634649,
+  "content": {
+    "title": "Spider-Man: No Way Home",
+    "original_title": "Spider-Man: No Way Home",
+    "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+    "tagline": "Enter the Multiverse."
+  },
+  "embedding_text": "Title: Spider-Man: No Way Home\n\nTagline: Enter the Multiverse.\n\nOverview: Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.\n\nGenres: Action, Adventure, Science Fiction\n\nCollection: Spider-Man (MCU) Collection\n\nProduction Companies: Marvel Studios, Pascal Pictures, Columbia Pictures\n\nProduction Countries: United States of America\n\nSpoken Languages: English, Tagalog",
+  "metadata": {
+    "imdb_id": "tt10872600",
+    "release_date": "2021-12-15",
+    "release_year": 2021,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 148,
+    "status": "Released",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "spoken_languages": [
+      "English",
+      "Tagalog"
+    ],
+    "production_countries": [
+      "United States of America"
+    ],
+    "budget": 200000000,
+    "revenue": 1921426073,
+    "popularity": 60.5141,
+    "vote_average": 7.947,
+    "vote_count": 23176
+  },
+  "relationships": {
+    "collection": {
+      "id": 531241,
+      "name": "Spider-Man (MCU) Collection"
+    },
+    "production_companies": [
+      {
+        "id": 420,
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 84041,
+        "name": "Pascal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 5,
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://www.sonypictures.com/movies/spidermannowayhome",
+    "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "backdrop_path": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg"
+  }
+}

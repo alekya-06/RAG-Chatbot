@@ -1,0 +1,62 @@
+{
+  "movie_id": 1058424,
+  "content": {
+    "title": "Hope",
+    "original_title": "호프",
+    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+    "tagline": "Is this how it ends?"
+  },
+  "embedding_text": "Title: Hope\n\nOriginal Title: 호프\n\nTagline: Is this how it ends?\n\nOverview: In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.\n\nGenres: Science Fiction, Mystery, Action\n\nProduction Companies: Forged Films, Plus M Entertainment, Westworld Story\n\nProduction Countries: South Korea\n\nSpoken Languages: Korean",
+  "metadata": {
+    "imdb_id": "tt27369017",
+    "release_date": "2026-07-15",
+    "release_year": 2026,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "runtime_minutes": 157,
+    "status": "Released",
+    "genres": [
+      "Science Fiction",
+      "Mystery",
+      "Action"
+    ],
+    "spoken_languages": [
+      "Korean"
+    ],
+    "production_countries": [
+      "South Korea"
+    ],
+    "budget": 46000000,
+    "revenue": 41212538,
+    "popularity": 55.1846,
+    "vote_average": 7.4,
+    "vote_count": 88
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": [
+      {
+        "id": 196800,
+        "name": "Forged Films",
+        "origin_country": "KR"
+      },
+      {
+        "id": 91505,
+        "name": "Plus M Entertainment",
+        "origin_country": "KR"
+      },
+      {
+        "id": 168283,
+        "name": "Westworld Story",
+        "origin_country": "KR"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://www.neonrated.com/film/hope",
+    "poster_path": "/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+    "backdrop_path": "/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg"
+  }
+}

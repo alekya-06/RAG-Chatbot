@@ -1,0 +1,72 @@
+{
+  "movie_id": 155,
+  "content": {
+    "title": "The Dark Knight",
+    "original_title": "The Dark Knight",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "tagline": "Some men just want to watch the world burn."
+  },
+  "embedding_text": "Title: The Dark Knight\n\nTagline: Some men just want to watch the world burn.\n\nOverview: Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.\n\nGenres: Action, Thriller, Crime\n\nCollection: The Dark Knight Collection\n\nProduction Companies: Warner Bros. Pictures, Legendary Pictures, Syncopy, DC\n\nProduction Countries: United Kingdom, United States of America\n\nSpoken Languages: English, Mandarin",
+  "metadata": {
+    "imdb_id": "tt0468569",
+    "release_date": "2008-07-16",
+    "release_year": 2008,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 152,
+    "status": "Released",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "spoken_languages": [
+      "English",
+      "Mandarin"
+    ],
+    "production_countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "budget": 185000000,
+    "revenue": 1004558444,
+    "popularity": 61.2883,
+    "vote_average": 8.535,
+    "vote_count": 36788
+  },
+  "relationships": {
+    "collection": {
+      "id": 263,
+      "name": "The Dark Knight Collection"
+    },
+    "production_companies": [
+      {
+        "id": 174,
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 923,
+        "name": "Legendary Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 9996,
+        "name": "Syncopy",
+        "origin_country": "GB"
+      },
+      {
+        "id": 429,
+        "name": "DC",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://www.warnerbros.com/movies/dark-knight/",
+    "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "backdrop_path": "/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg"
+  }
+}

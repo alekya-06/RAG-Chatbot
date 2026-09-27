@@ -1,0 +1,58 @@
+{
+  "movie_id": 1240889,
+  "content": {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "original_title": "Teenage Sex and Death at Camp Miasma",
+    "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
+    "tagline": "Blood. Lust."
+  },
+  "embedding_text": "Title: Teenage Sex and Death at Camp Miasma\n\nTagline: Blood. Lust.\n\nOverview: After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.\n\nGenres: Comedy, Horror, Romance\n\nProduction Companies: MUBI, Plan B Entertainment\n\nProduction Countries: United Kingdom, United States of America\n\nSpoken Languages: English",
+  "metadata": {
+    "imdb_id": "tt35298123",
+    "release_date": "2026-08-06",
+    "release_year": 2026,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 112,
+    "status": "Released",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Romance"
+    ],
+    "spoken_languages": [
+      "English"
+    ],
+    "production_countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "budget": 8000000,
+    "revenue": 8525000,
+    "popularity": 125.7916,
+    "vote_average": 6.3,
+    "vote_count": 180
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": [
+      {
+        "id": 204957,
+        "name": "MUBI",
+        "origin_country": "GB"
+      },
+      {
+        "id": 81,
+        "name": "Plan B Entertainment",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://mubi.com/en/campmiasma",
+    "poster_path": "/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
+    "backdrop_path": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg"
+  }
+}

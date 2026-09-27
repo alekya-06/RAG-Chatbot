@@ -1,0 +1,84 @@
+{
+  "movie_id": 569094,
+  "content": {
+    "title": "Spider-Man: Across the Spider-Verse",
+    "original_title": "Spider-Man: Across the Spider-Verse",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+    "tagline": "It's how you wear the mask that matters."
+  },
+  "embedding_text": "Title: Spider-Man: Across the Spider-Verse\n\nTagline: It's how you wear the mask that matters.\n\nOverview: After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.\n\nGenres: Animation, Action, Adventure, Science Fiction\n\nCollection: Spider-Man: Spider-Verse Collection\n\nProduction Companies: Columbia Pictures, Sony Pictures Animation, Lord Miller, Pascal Pictures, Arad Productions, Marvel Entertainment\n\nProduction Countries: United States of America\n\nSpoken Languages: English, Hindi, Italian, Spanish",
+  "metadata": {
+    "imdb_id": "tt9362722",
+    "release_date": "2023-05-31",
+    "release_year": 2023,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 140,
+    "status": "Released",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "spoken_languages": [
+      "English",
+      "Hindi",
+      "Italian",
+      "Spanish"
+    ],
+    "production_countries": [
+      "United States of America"
+    ],
+    "budget": 100000000,
+    "revenue": 690897910,
+    "popularity": 54.513,
+    "vote_average": 8.35,
+    "vote_count": 9290
+  },
+  "relationships": {
+    "collection": {
+      "id": 573436,
+      "name": "Spider-Man: Spider-Verse Collection"
+    },
+    "production_companies": [
+      {
+        "id": 5,
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2251,
+        "name": "Sony Pictures Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 77973,
+        "name": "Lord Miller",
+        "origin_country": "US"
+      },
+      {
+        "id": 84041,
+        "name": "Pascal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 14439,
+        "name": "Arad Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 7505,
+        "name": "Marvel Entertainment",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://www.sonypictures.com/movies/spidermanacrossthespiderverse",
+    "poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "backdrop_path": "/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg"
+  }
+}

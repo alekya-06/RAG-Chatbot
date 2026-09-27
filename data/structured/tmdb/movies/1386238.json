@@ -1,0 +1,60 @@
+{
+  "movie_id": 1386238,
+  "content": {
+    "title": "Black Gold",
+    "original_title": "Oro negro",
+    "overview": "Ramiro meets Damián again after years without seeing each other. Damián always has some shady business going on. This time he wants to go in a search of a certain treasure hidden in an abandoned convent. Lara, Ramiro's girlfriend, doesn't trust Damián and decides to accompany them. What they don't know is that taking that thing from there could unleash a curse that will haunt them forever, unless they return it just as they found it.",
+    "tagline": ""
+  },
+  "embedding_text": "Title: Black Gold\n\nOriginal Title: Oro negro\n\nOverview: Ramiro meets Damián again after years without seeing each other. Damián always has some shady business going on. This time he wants to go in a search of a certain treasure hidden in an abandoned convent. Lara, Ramiro's girlfriend, doesn't trust Damián and decides to accompany them. What they don't know is that taking that thing from there could unleash a curse that will haunt them forever, unless they return it just as they found it.\n\nGenres: Horror\n\nProduction Companies: Misil Producciones, Pluma Cine, Closer\n\nProduction Countries: Argentina\n\nSpoken Languages: Spanish",
+  "metadata": {
+    "imdb_id": "tt21220878",
+    "release_date": "2024-12-06",
+    "release_year": 2024,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "runtime_minutes": 64,
+    "status": "Released",
+    "genres": [
+      "Horror"
+    ],
+    "spoken_languages": [
+      "Spanish"
+    ],
+    "production_countries": [
+      "Argentina"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "popularity": 60.9569,
+    "vote_average": 3.0,
+    "vote_count": 1
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": [
+      {
+        "id": 144925,
+        "name": "Misil Producciones",
+        "origin_country": ""
+      },
+      {
+        "id": 220736,
+        "name": "Pluma Cine",
+        "origin_country": ""
+      },
+      {
+        "id": 279535,
+        "name": "Closer",
+        "origin_country": ""
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "",
+    "poster_path": "/cULEEfczauEprB8IX1S6c62x4E9.jpg",
+    "backdrop_path": "/8IXRm88SZZQHEWTNHaYC8PNYXj0.jpg"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "movie_id": 1273221,
+  "content": {
+    "title": "Scary Movie",
+    "original_title": "Scary Movie",
+    "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+    "tagline": "Every line will be crossed."
+  },
+  "embedding_text": "Title: Scary Movie\n\nTagline: Every line will be crossed.\n\nOverview: Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.\n\nGenres: Comedy\n\nCollection: Scary Movie Collection\n\nProduction Companies: Wayans Bros. Entertainment, Miramax\n\nProduction Countries: United States of America\n\nSpoken Languages: English, Korean, Portuguese, Spanish",
+  "metadata": {
+    "imdb_id": "tt32093575",
+    "release_date": "2026-06-03",
+    "release_year": 2026,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 96,
+    "status": "Released",
+    "genres": [
+      "Comedy"
+    ],
+    "spoken_languages": [
+      "English",
+      "Korean",
+      "Portuguese",
+      "Spanish"
+    ],
+    "production_countries": [
+      "United States of America"
+    ],
+    "budget": 30000000,
+    "revenue": 231886052,
+    "popularity": 54.062,
+    "vote_average": 6.376,
+    "vote_count": 1938
+  },
+  "relationships": {
+    "collection": {
+      "id": 4246,
+      "name": "Scary Movie Collection"
+    },
+    "production_companies": [
+      {
+        "id": 1608,
+        "name": "Wayans Bros. Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 14,
+        "name": "Miramax",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://www.scarymovie.film",
+    "poster_path": "/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+    "backdrop_path": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "movie_id": 1469930,
+  "content": {
+    "title": "Project Sacrifice",
+    "original_title": "Tumbal Proyek",
+    "overview": "While investigating their father’s death inside a major bridge construction company, Yuda and his family attempt to prove that the frequent, deadly workplace accidents are actually human sacrifices.",
+    "tagline": "Kisah nyata perbatasan Surabaya dan Madura."
+  },
+  "embedding_text": "Title: Project Sacrifice\n\nOriginal Title: Tumbal Proyek\n\nTagline: Kisah nyata perbatasan Surabaya dan Madura.\n\nOverview: While investigating their father’s death inside a major bridge construction company, Yuda and his family attempt to prove that the frequent, deadly workplace accidents are actually human sacrifices.\n\nGenres: Horror, Thriller\n\nProduction Companies: Dee Company\n\nProduction Countries: Indonesia\n\nSpoken Languages: Indonesian",
+  "metadata": {
+    "imdb_id": "tt38497679",
+    "release_date": "2026-05-13",
+    "release_year": 2026,
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "runtime_minutes": 106,
+    "status": "Released",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "spoken_languages": [
+      "Indonesian"
+    ],
+    "production_countries": [
+      "Indonesia"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "popularity": 92.5789,
+    "vote_average": 3.9,
+    "vote_count": 6
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": [
+      {
+        "id": 99376,
+        "name": "Dee Company",
+        "origin_country": "ID"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "",
+    "poster_path": "/321rzg1B6RRhcuRgsFHjQ7Xl3XX.jpg",
+    "backdrop_path": "/k3Nc57fdRkzleHjodta45mGJV2C.jpg"
+  }
+}

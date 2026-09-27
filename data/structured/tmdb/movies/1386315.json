@@ -1,0 +1,58 @@
+{
+  "movie_id": 1386315,
+  "content": {
+    "title": "The Runner",
+    "original_title": "The Runner",
+    "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
+    "tagline": "One hour. One chance to save her son."
+  },
+  "embedding_text": "Title: The Runner\n\nTagline: One hour. One chance to save her son.\n\nOverview: Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.\n\nGenres: Thriller, Action\n\nProduction Companies: Amazon MGM Studios, Rockwood Pictures\n\nProduction Countries: United States of America, United Kingdom\n\nSpoken Languages: English",
+  "metadata": {
+    "imdb_id": "tt34564059",
+    "release_date": "2026-09-03",
+    "release_year": 2026,
+    "original_language": "en",
+    "origin_country": [
+      "GB",
+      "US"
+    ],
+    "runtime_minutes": 86,
+    "status": "Released",
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "spoken_languages": [
+      "English"
+    ],
+    "production_countries": [
+      "United States of America",
+      "United Kingdom"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "popularity": 104.3285,
+    "vote_average": 6.773,
+    "vote_count": 562
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": [
+      {
+        "id": 210099,
+        "name": "Amazon MGM Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 244481,
+        "name": "Rockwood Pictures",
+        "origin_country": "GB"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://www.amazon.com/dp/B0H8NPW2KZ",
+    "poster_path": "/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+    "backdrop_path": "/jzBWExXacS33rMQ2zLBrqIVweyG.jpg"
+  }
+}

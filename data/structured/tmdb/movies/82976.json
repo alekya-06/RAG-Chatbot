@@ -1,0 +1,57 @@
+{
+  "movie_id": 82976,
+  "content": {
+    "title": "The Novices",
+    "original_title": "Les Novices",
+    "overview": "Sister Agnès runs away from her convent in Brittany and seeks refuge in Paris with prostitute Mona Lisa. With absolutely no qualifications, the young novice has a hard job finding work, so Mona Lisa tries to teach her the ropes of the oldest profession of them all!",
+    "tagline": ""
+  },
+  "embedding_text": "Title: The Novices\n\nOriginal Title: Les Novices\n\nOverview: Sister Agnès runs away from her convent in Brittany and seeks refuge in Paris with prostitute Mona Lisa. With absolutely no qualifications, the young novice has a hard job finding work, so Mona Lisa tries to teach her the ropes of the oldest profession of them all!\n\nGenres: Comedy, Drama\n\nProduction Companies: Les Films La Boétie, Rizzoli Film\n\nProduction Countries: France, Italy\n\nSpoken Languages: French",
+  "metadata": {
+    "imdb_id": "tt0066164",
+    "release_date": "1970-04-01",
+    "release_year": 1970,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "runtime_minutes": 91,
+    "status": "Released",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "spoken_languages": [
+      "French"
+    ],
+    "production_countries": [
+      "France",
+      "Italy"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "popularity": 126.3859,
+    "vote_average": 4.8,
+    "vote_count": 13
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": [
+      {
+        "id": 18477,
+        "name": "Les Films La Boétie",
+        "origin_country": "FR"
+      },
+      {
+        "id": 1131,
+        "name": "Rizzoli Film",
+        "origin_country": "IT"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "",
+    "poster_path": "/a2SnSbRxMB4vktOxZapaspY2fTC.jpg",
+    "backdrop_path": "/yhGCxn4pYIQhK52g6JjM4bL9fVX.jpg"
+  }
+}

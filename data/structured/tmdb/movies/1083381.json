@@ -1,0 +1,73 @@
+{
+  "movie_id": 1083381,
+  "content": {
+    "title": "Backrooms",
+    "original_title": "Backrooms",
+    "overview": "A strange doorway appears in the basement of a furniture showroom.",
+    "tagline": "See how far it goes."
+  },
+  "embedding_text": "Title: Backrooms\n\nTagline: See how far it goes.\n\nOverview: A strange doorway appears in the basement of a furniture showroom.\n\nGenres: Horror, Mystery, Science Fiction\n\nProduction Companies: Atomic Monster, 21 Laps Entertainment, A24, Phobos, The North Road Company\n\nProduction Countries: United States of America, Canada\n\nSpoken Languages: English",
+  "metadata": {
+    "imdb_id": "tt26657236",
+    "release_date": "2026-05-27",
+    "release_year": 2026,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 111,
+    "status": "Released",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "spoken_languages": [
+      "English"
+    ],
+    "production_countries": [
+      "United States of America",
+      "Canada"
+    ],
+    "budget": 10000000,
+    "revenue": 400926624,
+    "popularity": 89.9788,
+    "vote_average": 7.031,
+    "vote_count": 3397
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": [
+      {
+        "id": 76907,
+        "name": "Atomic Monster",
+        "origin_country": "US"
+      },
+      {
+        "id": 2575,
+        "name": "21 Laps Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 41077,
+        "name": "A24",
+        "origin_country": "US"
+      },
+      {
+        "id": 262307,
+        "name": "Phobos",
+        "origin_country": "CA"
+      },
+      {
+        "id": 251729,
+        "name": "The North Road Company",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://app.a24films.com/release/backrooms/522",
+    "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "backdrop_path": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg"
+  }
+}

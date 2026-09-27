@@ -1,0 +1,62 @@
+{
+  "movie_id": 20352,
+  "content": {
+    "title": "Despicable Me",
+    "original_title": "Despicable Me",
+    "overview": "Determined to prove he's the world's greatest supervillain, Gru hatches an audacious plan to steal the Moon. To pull it off, he adopts three orphaned girls—Margo, Edith, and Agnes—intending to use them as pawns in his scheme. But the unexpected bond they form forces him to question the criminal life he's always known.",
+    "tagline": "Superbad. Superdad."
+  },
+  "embedding_text": "Title: Despicable Me\n\nTagline: Superbad. Superdad.\n\nOverview: Determined to prove he's the world's greatest supervillain, Gru hatches an audacious plan to steal the Moon. To pull it off, he adopts three orphaned girls—Margo, Edith, and Agnes—intending to use them as pawns in his scheme. But the unexpected bond they form forces him to question the criminal life he's always known.\n\nGenres: Animation, Comedy, Crime, Science Fiction, Family\n\nCollection: Despicable Me Collection\n\nProduction Companies: Illumination, Universal Pictures\n\nProduction Countries: United States of America\n\nSpoken Languages: English",
+  "metadata": {
+    "imdb_id": "tt1323594",
+    "release_date": "2010-07-08",
+    "release_year": 2010,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 95,
+    "status": "Released",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Crime",
+      "Science Fiction",
+      "Family"
+    ],
+    "spoken_languages": [
+      "English"
+    ],
+    "production_countries": [
+      "United States of America"
+    ],
+    "budget": 69000000,
+    "revenue": 543284256,
+    "popularity": 50.68,
+    "vote_average": 7.262,
+    "vote_count": 16404
+  },
+  "relationships": {
+    "collection": {
+      "id": 86066,
+      "name": "Despicable Me Collection"
+    },
+    "production_companies": [
+      {
+        "id": 6704,
+        "name": "Illumination",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "http://www.despicable.me/",
+    "poster_path": "/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
+    "backdrop_path": "/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg"
+  }
+}

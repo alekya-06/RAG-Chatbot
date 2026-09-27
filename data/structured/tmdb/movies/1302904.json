@@ -1,0 +1,80 @@
+{
+  "movie_id": 1302904,
+  "content": {
+    "title": "Practical Magic 2",
+    "original_title": "Practical Magic 2",
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "tagline": "Everything you've witched for."
+  },
+  "embedding_text": "Title: Practical Magic 2\n\nTagline: Everything you've witched for.\n\nOverview: The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.\n\nGenres: Romance, Fantasy, Comedy\n\nCollection: Practical Magic Collection\n\nProduction Companies: Di Novi Pictures, Warner Bros. Pictures, Blossom Films, Fortis Films, Domain Entertainment, Alcon Entertainment\n\nProduction Countries: United States of America\n\nSpoken Languages: English",
+  "metadata": {
+    "imdb_id": "tt32588798",
+    "release_date": "2026-09-09",
+    "release_year": 2026,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 130,
+    "status": "Released",
+    "genres": [
+      "Romance",
+      "Fantasy",
+      "Comedy"
+    ],
+    "spoken_languages": [
+      "English"
+    ],
+    "production_countries": [
+      "United States of America"
+    ],
+    "budget": 75000000,
+    "revenue": 46000000,
+    "popularity": 52.2859,
+    "vote_average": 6.253,
+    "vote_count": 83
+  },
+  "relationships": {
+    "collection": {
+      "id": 1354706,
+      "name": "Practical Magic Collection"
+    },
+    "production_companies": [
+      {
+        "id": 813,
+        "name": "Di Novi Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 32537,
+        "name": "Blossom Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 4258,
+        "name": "Fortis Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 216687,
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 1088,
+        "name": "Alcon Entertainment",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://www.practicalmagicmovie.com",
+    "poster_path": "/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+    "backdrop_path": "/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "movie_id": 1156869,
+  "content": {
+    "title": "Blaze of Love",
+    "original_title": "性迷宮",
+    "overview": "Hong Kong movie",
+    "tagline": ""
+  },
+  "embedding_text": "Title: Blaze of Love\n\nOriginal Title: 性迷宮\n\nOverview: Hong Kong movie",
+  "metadata": {
+    "imdb_id": null,
+    "release_date": "1994-01-01",
+    "release_year": 1994,
+    "original_language": "en",
+    "origin_country": [
+      "HK"
+    ],
+    "runtime_minutes": 0,
+    "status": "Released",
+    "genres": [],
+    "spoken_languages": [],
+    "production_countries": [],
+    "budget": 0,
+    "revenue": 0,
+    "popularity": 70.6877,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": []
+  },
+  "assets": {
+    "homepage": "",
+    "poster_path": "/cSOW4av17KfO9K2CRqKCjMbeoMw.jpg",
+    "backdrop_path": null
+  }
+}

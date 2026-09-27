@@ -1,0 +1,67 @@
+{
+  "movie_id": 1641629,
+  "content": {
+    "title": "You+Me - Against the World",
+    "original_title": "Toi+Moi - Seuls contre tous",
+    "overview": "Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love — despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.",
+    "tagline": "He runs from everything. Except her."
+  },
+  "embedding_text": "Title: You+Me - Against the World\n\nOriginal Title: Toi+Moi - Seuls contre tous\n\nTagline: He runs from everything. Except her.\n\nOverview: Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love — despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.\n\nGenres: Romance, Drama\n\nProduction Companies: Amazon Studios France, Originals by Trésor, Trésor Films, Amazon MGM Studios\n\nProduction Countries: France, United States of America\n\nSpoken Languages: French",
+  "metadata": {
+    "imdb_id": "tt43617372",
+    "release_date": "2026-09-18",
+    "release_year": 2026,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "runtime_minutes": 94,
+    "status": "Released",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "spoken_languages": [
+      "French"
+    ],
+    "production_countries": [
+      "France",
+      "United States of America"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "popularity": 100.5424,
+    "vote_average": 5.726,
+    "vote_count": 42
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": [
+      {
+        "id": 208281,
+        "name": "Amazon Studios France",
+        "origin_country": "FR"
+      },
+      {
+        "id": 303782,
+        "name": "Originals by Trésor",
+        "origin_country": ""
+      },
+      {
+        "id": 120768,
+        "name": "Trésor Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 210099,
+        "name": "Amazon MGM Studios",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://www.amazon.com/gp/video/detail/B0HHQMLC42",
+    "poster_path": "/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
+    "backdrop_path": "/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg"
+  }
+}

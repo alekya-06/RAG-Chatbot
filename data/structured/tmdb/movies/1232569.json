@@ -1,0 +1,52 @@
+{
+  "movie_id": 1232569,
+  "content": {
+    "title": "Pinocchio: Unstrung",
+    "original_title": "Pinocchio: Unstrung",
+    "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
+    "tagline": "He has no strings to hold him back now."
+  },
+  "embedding_text": "Title: Pinocchio: Unstrung\n\nTagline: He has no strings to hold him back now.\n\nOverview: Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.\n\nGenres: Horror, Fantasy, Mystery\n\nProduction Companies: Jagged Edge Productions\n\nProduction Countries: United Kingdom\n\nSpoken Languages: English",
+  "metadata": {
+    "imdb_id": "tt30887701",
+    "release_date": "2026-07-22",
+    "release_year": 2026,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "runtime_minutes": 82,
+    "status": "Released",
+    "genres": [
+      "Horror",
+      "Fantasy",
+      "Mystery"
+    ],
+    "spoken_languages": [
+      "English"
+    ],
+    "production_countries": [
+      "United Kingdom"
+    ],
+    "budget": 500000,
+    "revenue": 821127,
+    "popularity": 130.591,
+    "vote_average": 6.6,
+    "vote_count": 108
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": [
+      {
+        "id": 155744,
+        "name": "Jagged Edge Productions",
+        "origin_country": "GB"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://www.altitude.film/pinocchio-unstrung",
+    "poster_path": "/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
+    "backdrop_path": "/dNKFETDDujxm2PUN873Jwiw5VML.jpg"
+  }
+}

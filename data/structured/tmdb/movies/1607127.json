@@ -1,0 +1,54 @@
+{
+  "movie_id": 1607127,
+  "content": {
+    "title": "One Last Shot",
+    "original_title": "One Last Shot",
+    "overview": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
+    "tagline": "One last traitor. One last mission. One last fight."
+  },
+  "embedding_text": "Title: One Last Shot\n\nTagline: One last traitor. One last mission. One last fight.\n\nOverview: Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.\n\nGenres: Action, Thriller\n\nCollection: One Shot Collection\n\nProduction Companies: Signature Films\n\nProduction Countries: United Kingdom\n\nSpoken Languages: English",
+  "metadata": {
+    "imdb_id": "tt37971717",
+    "release_date": "2026-09-22",
+    "release_year": 2026,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 98,
+    "status": "Released",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "spoken_languages": [
+      "English"
+    ],
+    "production_countries": [
+      "United Kingdom"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "popularity": 143.5208,
+    "vote_average": 7.709,
+    "vote_count": 43
+  },
+  "relationships": {
+    "collection": {
+      "id": 1214316,
+      "name": "One Shot Collection"
+    },
+    "production_companies": [
+      {
+        "id": 122034,
+        "name": "Signature Films",
+        "origin_country": "GB"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://signature-entertainment.co.uk/production/titles/one-last-shot",
+    "poster_path": "/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+    "backdrop_path": "/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg"
+  }
+}

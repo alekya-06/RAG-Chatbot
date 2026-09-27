@@ -1,0 +1,63 @@
+{
+  "movie_id": 1084242,
+  "content": {
+    "title": "Zootopia 2",
+    "original_title": "Zootopia 2",
+    "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+    "tagline": "They're back with a twissst."
+  },
+  "embedding_text": "Title: Zootopia 2\n\nTagline: They're back with a twissst.\n\nOverview: After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.\n\nGenres: Animation, Adventure, Comedy, Mystery, Family\n\nCollection: Zootopia Collection\n\nProduction Companies: Walt Disney Animation Studios, Walt Disney Animation Studios\n\nProduction Countries: United States of America, Canada\n\nSpoken Languages: English",
+  "metadata": {
+    "imdb_id": "tt26443597",
+    "release_date": "2025-11-26",
+    "release_year": 2025,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 108,
+    "status": "Released",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Mystery",
+      "Family"
+    ],
+    "spoken_languages": [
+      "English"
+    ],
+    "production_countries": [
+      "United States of America",
+      "Canada"
+    ],
+    "budget": 150000000,
+    "revenue": 1868208796,
+    "popularity": 74.11,
+    "vote_average": 7.674,
+    "vote_count": 3456
+  },
+  "relationships": {
+    "collection": {
+      "id": 1084247,
+      "name": "Zootopia Collection"
+    },
+    "production_companies": [
+      {
+        "id": 6125,
+        "name": "Walt Disney Animation Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 158526,
+        "name": "Walt Disney Animation Studios",
+        "origin_country": "CA"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://movies.disney.com/zootopia-2",
+    "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+    "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg"
+  }
+}

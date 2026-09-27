@@ -1,0 +1,50 @@
+{
+  "movie_id": 1323244,
+  "content": {
+    "title": "Rage of Stars",
+    "original_title": "Rage of Stars",
+    "overview": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.",
+    "tagline": ""
+  },
+  "embedding_text": "Title: Rage of Stars\n\nOverview: A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.\n\nGenres: Action, Science Fiction, Thriller\n\nProduction Companies: Lukra Films\n\nProduction Countries: Poland",
+  "metadata": {
+    "imdb_id": "tt29512655",
+    "release_date": "2026-08-06",
+    "release_year": 2026,
+    "original_language": "en",
+    "origin_country": [
+      "PL"
+    ],
+    "runtime_minutes": 106,
+    "status": "Released",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "spoken_languages": [],
+    "production_countries": [
+      "Poland"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "popularity": 98.7237,
+    "vote_average": 6.684,
+    "vote_count": 190
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": [
+      {
+        "id": 235192,
+        "name": "Lukra Films",
+        "origin_country": "PL"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://www.rageofstars.com/",
+    "poster_path": "/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
+    "backdrop_path": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg"
+  }
+}

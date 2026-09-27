@@ -1,0 +1,50 @@
+{
+  "movie_id": 1285366,
+  "content": {
+    "title": "Shape of My Heart",
+    "original_title": "愛のぬくもり",
+    "overview": "A romance about a man and a woman who, due to an unexpected event, end up switching bodies. Despite coming from completely different backgrounds and environments, the two try to overcome the various difficulties that arise from their body swap.",
+    "tagline": ""
+  },
+  "embedding_text": "Title: Shape of My Heart\n\nOriginal Title: 愛のぬくもり\n\nOverview: A romance about a man and a woman who, due to an unexpected event, end up switching bodies. Despite coming from completely different backgrounds and environments, the two try to overcome the various difficulties that arise from their body swap.\n\nGenres: Romance\n\nProduction Companies: Legend Pictures\n\nProduction Countries: Japan\n\nSpoken Languages: Japanese",
+  "metadata": {
+    "imdb_id": "tt33349025",
+    "release_date": "2024-07-06",
+    "release_year": 2024,
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "runtime_minutes": 91,
+    "status": "Released",
+    "genres": [
+      "Romance"
+    ],
+    "spoken_languages": [
+      "Japanese"
+    ],
+    "production_countries": [
+      "Japan"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "popularity": 95.9371,
+    "vote_average": 5.7,
+    "vote_count": 8
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": [
+      {
+        "id": 62454,
+        "name": "Legend Pictures",
+        "origin_country": "JP"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "",
+    "poster_path": "/3r0O6BW9USoZ9mteCVyNKMQriRL.jpg",
+    "backdrop_path": "/yjK3ardrgdS8suZG8KMU82Q7U38.jpg"
+  }
+}

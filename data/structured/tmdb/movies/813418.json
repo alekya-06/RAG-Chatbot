@@ -1,0 +1,73 @@
+{
+  "movie_id": 813418,
+  "content": {
+    "title": "Hot Spot",
+    "original_title": "Hot Spot",
+    "overview": "Set in a near future society ruled by sentient A.I., a private eye investigates a murder case only to discover a rebel group capable of undermining the digital overlord. As the detective's identity slowly unravels, his world enters a state of hypnotic meltdown.",
+    "tagline": "The system is unstable."
+  },
+  "embedding_text": "Title: Hot Spot\n\nTagline: The system is unstable.\n\nOverview: Set in a near future society ruled by sentient A.I., a private eye investigates a murder case only to discover a rebel group capable of undermining the digital overlord. As the detective's identity slowly unravels, his world enters a state of hypnotic meltdown.\n\nGenres: Science Fiction, Action, Crime, Fantasy, Thriller\n\nProduction Companies: Madants, Neda Film, Film i Väst, Zentropa International Sweden\n\nProduction Countries: Poland, Greece, Sweden\n\nSpoken Languages: English, French, Polish",
+  "metadata": {
+    "imdb_id": "tt14119302",
+    "release_date": "2026-08-21",
+    "release_year": 2026,
+    "original_language": "en",
+    "origin_country": [
+      "PL"
+    ],
+    "runtime_minutes": 101,
+    "status": "Released",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Crime",
+      "Fantasy",
+      "Thriller"
+    ],
+    "spoken_languages": [
+      "English",
+      "French",
+      "Polish"
+    ],
+    "production_countries": [
+      "Poland",
+      "Greece",
+      "Sweden"
+    ],
+    "budget": 6000000,
+    "revenue": 256350,
+    "popularity": 59.0768,
+    "vote_average": 5.1,
+    "vote_count": 22
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": [
+      {
+        "id": 86773,
+        "name": "Madants",
+        "origin_country": "PL"
+      },
+      {
+        "id": 86772,
+        "name": "Neda Film",
+        "origin_country": "GR"
+      },
+      {
+        "id": 2801,
+        "name": "Film i Väst",
+        "origin_country": "SE"
+      },
+      {
+        "id": 8288,
+        "name": "Zentropa International Sweden",
+        "origin_country": "SE"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://www.focusfeatures.com/hot-spot",
+    "poster_path": "/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
+    "backdrop_path": "/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "movie_id": 969681,
+  "content": {
+    "title": "Spider-Man: Brand New Day",
+    "original_title": "Spider-Man: Brand New Day",
+    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "tagline": "A brand new day starts now."
+  },
+  "embedding_text": "Title: Spider-Man: Brand New Day\n\nTagline: A brand new day starts now.\n\nOverview: Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.\n\nGenres: Science Fiction, Action, Adventure\n\nCollection: Spider-Man (MCU) Collection\n\nProduction Companies: Marvel Studios, Columbia Pictures, Pascal Pictures, TSG Entertainment\n\nProduction Countries: United States of America\n\nSpoken Languages: English",
+  "metadata": {
+    "imdb_id": "tt22084616",
+    "release_date": "2026-07-29",
+    "release_year": 2026,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 145,
+    "status": "Released",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "spoken_languages": [
+      "English"
+    ],
+    "production_countries": [
+      "United States of America"
+    ],
+    "budget": 225000000,
+    "revenue": 2478502286,
+    "popularity": 633.5085,
+    "vote_average": 7.9,
+    "vote_count": 2866
+  },
+  "relationships": {
+    "collection": {
+      "id": 531241,
+      "name": "Spider-Man (MCU) Collection"
+    },
+    "production_companies": [
+      {
+        "id": 420,
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 5,
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 84041,
+        "name": "Pascal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 22213,
+        "name": "TSG Entertainment",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://spidermanbrandnewday.movie",
+    "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+    "backdrop_path": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg"
+  }
+}

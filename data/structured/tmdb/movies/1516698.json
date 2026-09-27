@@ -1,0 +1,77 @@
+{
+  "movie_id": 1516698,
+  "content": {
+    "title": "The Last Sunrise",
+    "original_title": "The Last Sunrise",
+    "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
+    "tagline": "One summer to feel everything."
+  },
+  "embedding_text": "Title: The Last Sunrise\n\nTagline: One summer to feel everything.\n\nOverview: Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.\n\nGenres: Romance, Drama\n\nProduction Companies: Amazon MGM Studios, Ethea Entertainment, Luber-Roklin Entertainment, Pitt Street Productions, Aquarius Films, The Last Sunrise\n\nProduction Countries: United States of America, Spain\n\nSpoken Languages: English",
+  "metadata": {
+    "imdb_id": "tt37654096",
+    "release_date": "2026-08-26",
+    "release_year": 2026,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 107,
+    "status": "Released",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "spoken_languages": [
+      "English"
+    ],
+    "production_countries": [
+      "United States of America",
+      "Spain"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "popularity": 83.5683,
+    "vote_average": 6.817,
+    "vote_count": 191
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": [
+      {
+        "id": 210099,
+        "name": "Amazon MGM Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 158529,
+        "name": "Ethea Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 220517,
+        "name": "Luber-Roklin Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 202263,
+        "name": "Pitt Street Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 308708,
+        "name": "Aquarius Films",
+        "origin_country": "ES"
+      },
+      {
+        "id": 308732,
+        "name": "The Last Sunrise",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://www.amazon.com/dp/B0H8Q1DKGJ",
+    "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+    "backdrop_path": "/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg"
+  }
+}

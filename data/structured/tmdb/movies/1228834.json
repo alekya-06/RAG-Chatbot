@@ -1,0 +1,92 @@
+{
+  "movie_id": 1228834,
+  "content": {
+    "title": "The Fix",
+    "original_title": "The Fix",
+    "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
+    "tagline": "Settle the score."
+  },
+  "embedding_text": "Title: The Fix\n\nTagline: Settle the score.\n\nOverview: Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.\n\nGenres: Action, Thriller\n\nProduction Companies: Astral Future, Dreamtime Entertainment, Oakhurst Entertainment, BondIt Media Capital, Latigo Films, Blue Rider Pictures, Rabbits Black, Thomasville Pictures, Eyevox Entertainment\n\nProduction Countries: United States of America\n\nSpoken Languages: Arabic, English",
+  "metadata": {
+    "imdb_id": "tt9601292",
+    "release_date": "2026-09-10",
+    "release_year": 2026,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 142,
+    "status": "Released",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "spoken_languages": [
+      "Arabic",
+      "English"
+    ],
+    "production_countries": [
+      "United States of America"
+    ],
+    "budget": 32000000,
+    "revenue": 0,
+    "popularity": 155.2676,
+    "vote_average": 7.179,
+    "vote_count": 28
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": [
+      {
+        "id": 217982,
+        "name": "Astral Future",
+        "origin_country": "US"
+      },
+      {
+        "id": 208153,
+        "name": "Dreamtime Entertainment",
+        "origin_country": ""
+      },
+      {
+        "id": 124504,
+        "name": "Oakhurst Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 121204,
+        "name": "BondIt Media Capital",
+        "origin_country": "US"
+      },
+      {
+        "id": 198605,
+        "name": "Latigo Films",
+        "origin_country": ""
+      },
+      {
+        "id": 2623,
+        "name": "Blue Rider Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 229487,
+        "name": "Rabbits Black",
+        "origin_country": "US"
+      },
+      {
+        "id": 179981,
+        "name": "Thomasville Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 185588,
+        "name": "Eyevox Entertainment",
+        "origin_country": ""
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "",
+    "poster_path": "/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+    "backdrop_path": "/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg"
+  }
+}

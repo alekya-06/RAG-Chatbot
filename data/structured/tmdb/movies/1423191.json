@@ -1,0 +1,84 @@
+{
+  "movie_id": 1423191,
+  "content": {
+    "title": "Resident Evil",
+    "original_title": "Resident Evil",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "tagline": "A new era of evil."
+  },
+  "embedding_text": "Title: Resident Evil\n\nTagline: A new era of evil.\n\nOverview: Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.\n\nGenres: Horror, Science Fiction, Adventure\n\nProduction Companies: Constantin Film, Subconscious, Vertigo Entertainment, Davis Films, Columbia Pictures, PlayStation Productions, TriStar Pictures\n\nProduction Countries: United States of America, Germany, France\n\nSpoken Languages: English",
+  "metadata": {
+    "imdb_id": "tt35538033",
+    "release_date": "2026-09-16",
+    "release_year": 2026,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 95,
+    "status": "Released",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "spoken_languages": [
+      "English"
+    ],
+    "production_countries": [
+      "United States of America",
+      "Germany",
+      "France"
+    ],
+    "budget": 75000000,
+    "revenue": 123281812,
+    "popularity": 513.2853,
+    "vote_average": 7.289,
+    "vote_count": 438
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": [
+      {
+        "id": 47,
+        "name": "Constantin Film",
+        "origin_country": "DE"
+      },
+      {
+        "id": 240675,
+        "name": "Subconscious",
+        "origin_country": "US"
+      },
+      {
+        "id": 829,
+        "name": "Vertigo Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 342,
+        "name": "Davis Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 5,
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 125281,
+        "name": "PlayStation Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 559,
+        "name": "TriStar Pictures",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://residentevil.movie",
+    "poster_path": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "movie_id": 299536,
+  "content": {
+    "title": "Avengers: Infinity War",
+    "original_title": "Avengers: Infinity War",
+    "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+    "tagline": "An entire universe. Once and for all."
+  },
+  "embedding_text": "Title: Avengers: Infinity War\n\nTagline: An entire universe. Once and for all.\n\nOverview: As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.\n\nGenres: Adventure, Action, Science Fiction\n\nCollection: The Avengers Collection\n\nProduction Companies: Marvel Studios\n\nProduction Countries: United States of America\n\nSpoken Languages: English, Xhosa",
+  "metadata": {
+    "imdb_id": "tt4154756",
+    "release_date": "2018-04-25",
+    "release_year": 2018,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 149,
+    "status": "Released",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "spoken_languages": [
+      "English",
+      "Xhosa"
+    ],
+    "production_countries": [
+      "United States of America"
+    ],
+    "budget": 300000000,
+    "revenue": 2052415039,
+    "popularity": 86.8185,
+    "vote_average": 8.243,
+    "vote_count": 32973
+  },
+  "relationships": {
+    "collection": {
+      "id": 86311,
+      "name": "The Avengers Collection"
+    },
+    "production_companies": [
+      {
+        "id": 420,
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://www.marvel.com/movies/avengers-infinity-war",
+    "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg"
+  }
+}

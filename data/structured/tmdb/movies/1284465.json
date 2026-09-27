@@ -1,0 +1,57 @@
+{
+  "movie_id": 1284465,
+  "content": {
+    "title": "The Death of Robin Hood",
+    "original_title": "The Death of Robin Hood",
+    "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+    "tagline": "He was no hero."
+  },
+  "embedding_text": "Title: The Death of Robin Hood\n\nTagline: He was no hero.\n\nOverview: Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.\n\nGenres: Adventure, Drama, Action\n\nProduction Companies: Lyrical Media, Ryder Picture Company\n\nProduction Countries: United States of America\n\nSpoken Languages: English",
+  "metadata": {
+    "imdb_id": "tt32273171",
+    "release_date": "2026-06-18",
+    "release_year": 2026,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 123,
+    "status": "Released",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action"
+    ],
+    "spoken_languages": [
+      "English"
+    ],
+    "production_countries": [
+      "United States of America"
+    ],
+    "budget": 25000000,
+    "revenue": 3200000,
+    "popularity": 56.2398,
+    "vote_average": 6.368,
+    "vote_count": 344
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": [
+      {
+        "id": 180839,
+        "name": "Lyrical Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 172841,
+        "name": "Ryder Picture Company",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://a24films.com/films/the-death-of-robin-hood",
+    "poster_path": "/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+    "backdrop_path": "/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg"
+  }
+}

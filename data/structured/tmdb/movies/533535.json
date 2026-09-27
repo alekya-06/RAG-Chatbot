@@ -1,0 +1,80 @@
+{
+  "movie_id": 533535,
+  "content": {
+    "title": "Deadpool & Wolverine",
+    "original_title": "Deadpool & Wolverine",
+    "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+    "tagline": "Come together."
+  },
+  "embedding_text": "Title: Deadpool & Wolverine\n\nTagline: Come together.\n\nOverview: A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.\n\nGenres: Action, Comedy, Science Fiction\n\nCollection: Deadpool Collection\n\nProduction Companies: Marvel Studios, Maximum Effort, 21 Laps Entertainment, 20th Century Studios, Kevin Feige Productions, TSG Entertainment\n\nProduction Countries: United States of America\n\nSpoken Languages: English",
+  "metadata": {
+    "imdb_id": "tt6263850",
+    "release_date": "2024-07-24",
+    "release_year": 2024,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 128,
+    "status": "Released",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "spoken_languages": [
+      "English"
+    ],
+    "production_countries": [
+      "United States of America"
+    ],
+    "budget": 200000000,
+    "revenue": 1338073645,
+    "popularity": 57.281,
+    "vote_average": 7.589,
+    "vote_count": 9496
+  },
+  "relationships": {
+    "collection": {
+      "id": 448150,
+      "name": "Deadpool Collection"
+    },
+    "production_companies": [
+      {
+        "id": 420,
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 104228,
+        "name": "Maximum Effort",
+        "origin_country": "US"
+      },
+      {
+        "id": 2575,
+        "name": "21 Laps Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 127928,
+        "name": "20th Century Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 176762,
+        "name": "Kevin Feige Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 22213,
+        "name": "TSG Entertainment",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://www.marvel.com/movies/deadpool-and-wolverine",
+    "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+    "backdrop_path": "/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg"
+  }
+}

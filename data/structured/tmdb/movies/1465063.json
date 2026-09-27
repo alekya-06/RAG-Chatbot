@@ -1,0 +1,55 @@
+{
+  "movie_id": 1465063,
+  "content": {
+    "title": "Forgotten Island",
+    "original_title": "Forgotten Island",
+    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+    "tagline": "No memory left behind."
+  },
+  "embedding_text": "Title: Forgotten Island\n\nTagline: No memory left behind.\n\nOverview: While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.\n\nGenres: Animation, Adventure, Fantasy, Comedy, Family\n\nProduction Companies: DreamWorks Animation\n\nProduction Countries: United States of America\n\nSpoken Languages: English, Tagalog",
+  "metadata": {
+    "imdb_id": "tt36583977",
+    "release_date": "2026-09-10",
+    "release_year": 2026,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "runtime_minutes": 109,
+    "status": "Released",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Family"
+    ],
+    "spoken_languages": [
+      "English",
+      "Tagalog"
+    ],
+    "production_countries": [
+      "United States of America"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "popularity": 59.001,
+    "vote_average": 7.6,
+    "vote_count": 15
+  },
+  "relationships": {
+    "collection": null,
+    "production_companies": [
+      {
+        "id": 521,
+        "name": "DreamWorks Animation",
+        "origin_country": "US"
+      }
+    ]
+  },
+  "assets": {
+    "homepage": "https://www.forgottenislandmovie.com",
+    "poster_path": "/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+    "backdrop_path": "/eYvHMdFl1Qp0o810lCsRtjfs2sY.jpg"
+  }
+}
