@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": "/hjF1rzTDR7YvnJUcH2SfP48w492.jpg",
+  "belongs_to_collection": null,
+  "budget": 5500000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.iconicreleasing.com/events/ice-cream-man/",
+  "id": 1477712,
+  "imdb_id": "tt36893729",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Ice Cream Man",
+  "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+  "popularity": 104.9721,
+  "poster_path": "/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
+  "production_companies": [
+    {
+      "id": 258079,
+      "logo_path": "/2cvSE4rsBLKXqK13tWtAJe7afAS.png",
+      "name": "The Horror Section",
+      "origin_country": "US"
+    },
+    {
+      "id": 221429,
+      "logo_path": "/rWqW00ts1tZ0efwyacZlGnVd6PB.png",
+      "name": "Media Capital Technologies",
+      "origin_country": "US"
+    },
+    {
+      "id": 5056,
+      "logo_path": "/ok7CQyn0RPEuI0upznPoo93YE6H.png",
+      "name": "Head Gear Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 62657,
+      "logo_path": "/lrjP8bqSziFpahMsE13qImlWLBQ.png",
+      "name": "Mass Appeal",
+      "origin_country": "US"
+    },
+    {
+      "id": 25954,
+      "logo_path": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png",
+      "name": "Metrol Technology",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1778,
+      "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+      "name": "dentsu",
+      "origin_country": "JP"
+    },
+    {
+      "id": 252730,
+      "logo_path": "/4mXx4PAP9ivHVZ0WAjvyKTI8hGK.png",
+      "name": "Sixth Dimension",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2026-08-03",
+  "revenue": 7788193,
+  "runtime": 86,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "We all scream.",
+  "title": "Ice Cream Man",
+  "video": false,
+  "vote_average": 4.56,
+  "vote_count": 75
+}

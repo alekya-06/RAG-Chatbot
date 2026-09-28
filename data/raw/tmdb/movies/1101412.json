@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+  "belongs_to_collection": {
+    "id": 1102372,
+    "name": "Fall Collection",
+    "poster_path": "/z4faPlQzVo0XuEiSmQ8uciBiHZy.jpg",
+    "backdrop_path": "/irpXNMKEdYZLQAZDmKeicXdUHMG.jpg"
+  },
+  "budget": 3000000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.fall.movie/",
+  "id": 1101412,
+  "imdb_id": "tt31192372",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Fall 2: Deadpoint",
+  "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+  "popularity": 58.2072,
+  "poster_path": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+  "production_companies": [
+    {
+      "id": 155758,
+      "logo_path": "/iZi0zd9ijrcWR9zlEUUthG8d600.png",
+      "name": "Tea Shop Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 154063,
+      "logo_path": "/r4anaxYa8OL5KaUbU35VkrIe88L.png",
+      "name": "Capstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 61975,
+      "logo_path": null,
+      "name": "Flawless Production",
+      "origin_country": "GB"
+    },
+    {
+      "id": 303075,
+      "logo_path": null,
+      "name": "Cousin Jones",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-09-01",
+  "revenue": 9256541,
+  "runtime": 98,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Are you down?",
+  "title": "Fall 2: Deadpoint",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 49
+}

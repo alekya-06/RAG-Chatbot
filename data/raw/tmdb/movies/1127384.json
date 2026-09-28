@@ -1,0 +1,126 @@
+{
+  "adult": false,
+  "backdrop_path": "/szKv713FcUXx6hcfdY369vtkmzr.jpg",
+  "belongs_to_collection": null,
+  "budget": 40000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 1127384,
+  "imdb_id": "tt29516222",
+  "origin_country": [
+    "AU",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Deep Water",
+  "overview": "A group of international passengers on a flight from Los Angeles to Shanghai is forced to make an emergency landing in shark-infested waters. The terrified group is forced to work together and overcome their differences if they hope to escape their sinking plane and the frenzy of sharks drawn to the wreckage.",
+  "popularity": 71.6276,
+  "poster_path": "/ZWHxL2ETItcZzeVsVfs6gv3SZ7.jpg",
+  "production_companies": [
+    {
+      "id": 231386,
+      "logo_path": "/4WS75ndvhPMm7Rj2RFZnFYwBS2o.png",
+      "name": "Magenta Light Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 2520,
+      "logo_path": "/dAfMKKimOSxL147xNghoXM1Tuah.png",
+      "name": "Arclight Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 200176,
+      "logo_path": null,
+      "name": "Simmons/Hamilton Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 11068,
+      "logo_path": "/jOdUllzDZRFy0tPIFDEwpP4Mpv4.png",
+      "name": "Nostromo Pictures",
+      "origin_country": "ES"
+    },
+    {
+      "id": 76098,
+      "logo_path": "/1DMLx7ZtpYPu9MvYH8Yswwsx0oH.png",
+      "name": "Aristos Films",
+      "origin_country": ""
+    },
+    {
+      "id": 293380,
+      "logo_path": null,
+      "name": "DW Film Holdings",
+      "origin_country": "AU"
+    },
+    {
+      "id": 229487,
+      "logo_path": "/vF5HUjsJU0jFtlhpUdcodrECXBk.png",
+      "name": "Rabbits Black",
+      "origin_country": "US"
+    },
+    {
+      "id": 2623,
+      "logo_path": "/7Bkm1yUF0y8x6jw8dHRfzS3B6dq.png",
+      "name": "Blue Rider Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "UA",
+      "name": "Ukraine"
+    }
+  ],
+  "release_date": "2026-04-30",
+  "revenue": 7340233,
+  "runtime": 107,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Surviving the crash is just the beginning.",
+  "title": "Deep Water",
+  "video": false,
+  "vote_average": 7.382,
+  "vote_count": 612
+}

@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1408162,
+  "imdb_id": "tt35836025",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "ta",
+  "original_title": "விஸ்வநாத் & சன்ஸ்",
+  "overview": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
+  "popularity": 71.0974,
+  "poster_path": "/7SfkdlOuifMn8Q7OHh9KQa3xwKr.jpg",
+  "production_companies": [
+    {
+      "id": 107352,
+      "logo_path": "/qNLrEbrNigDNR6QgaRtwXtRIwgx.png",
+      "name": "Sithara Entertainments",
+      "origin_country": "IN"
+    },
+    {
+      "id": 172461,
+      "logo_path": null,
+      "name": "Srikara Studios",
+      "origin_country": "IN"
+    },
+    {
+      "id": 166697,
+      "logo_path": null,
+      "name": "Fortune Four Cinemas",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2026-08-14",
+  "revenue": 0,
+  "runtime": 161,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "தமிழ்"
+    },
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Vishwanath & Sons",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 28
+}

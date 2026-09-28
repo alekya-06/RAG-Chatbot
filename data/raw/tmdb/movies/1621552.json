@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/82048151",
+  "id": 1621552,
+  "imdb_id": "tt39390497",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "La captura",
+  "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
+  "popularity": 82.2798,
+  "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+  "production_companies": [
+    {
+      "id": 84651,
+      "logo_path": "/o7gUREdtNzQ3Alrck13tlvcNKvv.png",
+      "name": "Draco Films",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2026-08-21",
+  "revenue": 0,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Facing El Chapo",
+  "video": false,
+  "vote_average": 8.799,
+  "vote_count": 797
+}

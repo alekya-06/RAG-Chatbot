@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
+  "belongs_to_collection": null,
+  "budget": 46000000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://www.neonrated.com/film/hope",
+  "id": 1058424,
+  "imdb_id": "tt27369017",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "호프",
+  "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+  "popularity": 55.1846,
+  "poster_path": "/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+  "production_companies": [
+    {
+      "id": 196800,
+      "logo_path": "/gmh5oiXNSKI2WoEnyz8dqV9ikwr.png",
+      "name": "Forged Films",
+      "origin_country": "KR"
+    },
+    {
+      "id": 91505,
+      "logo_path": "/c6ggS6OO4tyEcgBQ7sHs67LDfES.png",
+      "name": "Plus M Entertainment",
+      "origin_country": "KR"
+    },
+    {
+      "id": 168283,
+      "logo_path": "/tkoix7ykf4WORjI3PNo5P4an67B.png",
+      "name": "Westworld Story",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2026-07-15",
+  "revenue": 41212538,
+  "runtime": 157,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Is this how it ends?",
+  "title": "Hope",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 88
+}

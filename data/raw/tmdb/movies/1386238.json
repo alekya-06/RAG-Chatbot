@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/8IXRm88SZZQHEWTNHaYC8PNYXj0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1386238,
+  "imdb_id": "tt21220878",
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "Oro negro",
+  "overview": "Ramiro meets Damián again after years without seeing each other. Damián always has some shady business going on. This time he wants to go in a search of a certain treasure hidden in an abandoned convent. Lara, Ramiro's girlfriend, doesn't trust Damián and decides to accompany them. What they don't know is that taking that thing from there could unleash a curse that will haunt them forever, unless they return it just as they found it.",
+  "popularity": 60.9569,
+  "poster_path": "/cULEEfczauEprB8IX1S6c62x4E9.jpg",
+  "production_companies": [
+    {
+      "id": 144925,
+      "logo_path": null,
+      "name": "Misil Producciones",
+      "origin_country": ""
+    },
+    {
+      "id": 220736,
+      "logo_path": null,
+      "name": "Pluma Cine",
+      "origin_country": ""
+    },
+    {
+      "id": 279535,
+      "logo_path": null,
+      "name": "Closer",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "release_date": "2024-12-06",
+  "revenue": 0,
+  "runtime": 64,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Black Gold",
+  "video": false,
+  "vote_average": 3.0,
+  "vote_count": 1
+}

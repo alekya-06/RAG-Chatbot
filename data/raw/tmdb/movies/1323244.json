@@ -1,0 +1,56 @@
+{
+  "adult": false,
+  "backdrop_path": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.rageofstars.com/",
+  "id": 1323244,
+  "imdb_id": "tt29512655",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "en",
+  "original_title": "Rage of Stars",
+  "overview": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.",
+  "popularity": 98.7237,
+  "poster_path": "/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
+  "production_companies": [
+    {
+      "id": 235192,
+      "logo_path": null,
+      "name": "Lukra Films",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2026-08-06",
+  "revenue": 0,
+  "runtime": 106,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Rage of Stars",
+  "video": false,
+  "vote_average": 6.684,
+  "vote_count": 190
+}

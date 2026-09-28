@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": "/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+  "belongs_to_collection": null,
+  "budget": 32000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1228834,
+  "imdb_id": "tt9601292",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Fix",
+  "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
+  "popularity": 155.2676,
+  "poster_path": "/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+  "production_companies": [
+    {
+      "id": 217982,
+      "logo_path": null,
+      "name": "Astral Future",
+      "origin_country": "US"
+    },
+    {
+      "id": 208153,
+      "logo_path": null,
+      "name": "Dreamtime Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 124504,
+      "logo_path": "/2lNM3d3KUlDk3phoFpTkrIS8jKU.png",
+      "name": "Oakhurst Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 121204,
+      "logo_path": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+      "name": "BondIt Media Capital",
+      "origin_country": "US"
+    },
+    {
+      "id": 198605,
+      "logo_path": null,
+      "name": "Latigo Films",
+      "origin_country": ""
+    },
+    {
+      "id": 2623,
+      "logo_path": "/7Bkm1yUF0y8x6jw8dHRfzS3B6dq.png",
+      "name": "Blue Rider Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 229487,
+      "logo_path": "/vF5HUjsJU0jFtlhpUdcodrECXBk.png",
+      "name": "Rabbits Black",
+      "origin_country": "US"
+    },
+    {
+      "id": 179981,
+      "logo_path": "/vbI6QgAC9s3BilQ5Oa7juyrf59N.png",
+      "name": "Thomasville Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 185588,
+      "logo_path": null,
+      "name": "Eyevox Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-09-10",
+  "revenue": 0,
+  "runtime": 142,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Settle the score.",
+  "title": "The Fix",
+  "video": false,
+  "vote_average": 7.179,
+  "vote_count": 28
+}

@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1514682,
+  "imdb_id": "tt37603783",
+  "origin_country": [
+    "US",
+    "ES"
+  ],
+  "original_language": "en",
+  "original_title": "Above & Below",
+  "overview": "A group of friends set off for an unforgettable vacation. What begins as an adventure of partying and diving quickly turns into a nightmare when they are attacked by criminals in open waters.",
+  "popularity": 53.6776,
+  "poster_path": "/7bOuu1SRALGwsG2fLCTvRkCmQBj.jpg",
+  "production_companies": [
+    {
+      "id": 154063,
+      "logo_path": "/r4anaxYa8OL5KaUbU35VkrIe88L.png",
+      "name": "Capstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 210197,
+      "logo_path": "/hDX0eQxjfNiV4sBU8CH1oTQ2Jdk.png",
+      "name": "AF Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 304095,
+      "logo_path": null,
+      "name": "Match Point",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2026-07-29",
+  "revenue": 328837,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Above & Below",
+  "video": false,
+  "vote_average": 6.051,
+  "vote_count": 39
+}

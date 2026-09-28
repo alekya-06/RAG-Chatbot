@@ -1,0 +1,42 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 895954,
+  "imdb_id": null,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "莫尼卡中心",
+  "overview": "Yeon Ja, a working mother, runs a car center after divorce and is raising her daughter all by herself. Her daughter, Ah Jung, started helping her when she became an adult, however, the customers don't trust weak-looking women to touch machines and the business at the car center is slow. Thanks to Ah Jung's punk boyfriend, Sung Hoon, they came up with an idea to turn the car center into a sexy car center.",
+  "popularity": 52.056,
+  "poster_path": "/saca8CL9kk22AS5BfMbwSYgMvdp.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2021-01-01",
+  "revenue": 0,
+  "runtime": 87,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "母女汽车中心",
+  "video": false,
+  "vote_average": 4.0,
+  "vote_count": 1
+}

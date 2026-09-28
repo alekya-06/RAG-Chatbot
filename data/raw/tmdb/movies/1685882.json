@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/8Lq3f68f4WZpQrihDooNink8xJ7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1685882,
+  "imdb_id": "tt42262473",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "ta",
+  "original_title": "மொத ராத்திரி",
+  "overview": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
+  "popularity": 67.2515,
+  "poster_path": "/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg",
+  "production_companies": [
+    {
+      "id": 69125,
+      "logo_path": "/7kRvsVRhT76VTbhGLgJ2CrTgdpa.png",
+      "name": "Mythri Movie Makers",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2026-08-21",
+  "revenue": 0,
+  "runtime": 141,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "தமிழ்"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Modha Rathri",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 7
+}

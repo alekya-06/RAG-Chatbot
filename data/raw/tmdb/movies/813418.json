@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": "/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
+  "belongs_to_collection": null,
+  "budget": 6000000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.focusfeatures.com/hot-spot",
+  "id": 813418,
+  "imdb_id": "tt14119302",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "en",
+  "original_title": "Hot Spot",
+  "overview": "Set in a near future society ruled by sentient A.I., a private eye investigates a murder case only to discover a rebel group capable of undermining the digital overlord. As the detective's identity slowly unravels, his world enters a state of hypnotic meltdown.",
+  "popularity": 59.0768,
+  "poster_path": "/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
+  "production_companies": [
+    {
+      "id": 86773,
+      "logo_path": "/lbjAsmIuOcIEFJG2WRSz1NUAXvi.png",
+      "name": "Madants",
+      "origin_country": "PL"
+    },
+    {
+      "id": 86772,
+      "logo_path": "/zaRXAxVMdactH2HLKegbmm7FdOx.png",
+      "name": "Neda Film",
+      "origin_country": "GR"
+    },
+    {
+      "id": 2801,
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst",
+      "origin_country": "SE"
+    },
+    {
+      "id": 8288,
+      "logo_path": "/5THcBZP0ad7hXPjtPTxld5sVJQp.png",
+      "name": "Zentropa International Sweden",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    },
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2026-08-21",
+  "revenue": 256350,
+  "runtime": 101,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The system is unstable.",
+  "title": "Hot Spot",
+  "video": false,
+  "vote_average": 5.1,
+  "vote_count": 22
+}

@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+  "belongs_to_collection": null,
+  "budget": 80000000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.endofoakstreet.com",
+  "id": 1101383,
+  "imdb_id": "tt27165187",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The End of Oak Street",
+  "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+  "popularity": 413.3113,
+  "poster_path": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 216687,
+      "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+      "name": "Domain Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 11461,
+      "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+      "name": "Bad Robot",
+      "origin_country": "US"
+    },
+    {
+      "id": 171235,
+      "logo_path": null,
+      "name": "Jackson Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-08-12",
+  "revenue": 120363694,
+  "runtime": 100,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Where goes the neighborhood.",
+  "title": "The End of Oak Street",
+  "video": false,
+  "vote_average": 7.003,
+  "vote_count": 1486
+}

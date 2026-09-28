@@ -1,0 +1,64 @@
+{
+  "adult": false,
+  "backdrop_path": "/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1294189,
+  "imdb_id": "tt13611778",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Mongoose",
+  "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
+  "popularity": 249.4488,
+  "poster_path": "/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+  "production_companies": [
+    {
+      "id": 14589,
+      "logo_path": "/5WrEKsyGdTfT3T075EukSoIuxSU.png",
+      "name": "Code Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 33768,
+      "logo_path": "/f8TDXTNoj4G4eRCKlUpG3KYQj9I.png",
+      "name": "The Solution",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-10-29",
+  "revenue": 0,
+  "runtime": 99,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Post Production",
+  "tagline": "",
+  "title": "The Mongoose",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0
+}
