@@ -13,8 +13,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Local data
-data/raw/
-data/processed/
+# remove from gi once you expand your dataset and add to .gitignore
 
 # Databases / vector stores
 *.db
