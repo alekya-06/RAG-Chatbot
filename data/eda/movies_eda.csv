@@ -1,0 +1,1352 @@
+movie_id,title,original_title,overview,tagline,embedding_text,imdb_id,release_date,release_year,original_language,origin_country,runtime_minutes,status,genres,spoken_languages,production_countries,budget,revenue,popularity,vote_average,vote_count,collection_id,collection_name,production_companies,homepage,poster_path,backdrop_path,_source_file,embedding_text_chars,embedding_text_words,title_has_unicode,overview_has_unicode
+1003596,Avengers: Doomsday,Avengers: Doomsday,Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.,,"Title: Avengers: Doomsday
+
+Overview: Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.
+
+Genres: Science Fiction, Action, Adventure
+
+Collection: The Avengers Collection
+
+Production Companies: Marvel Studios, Kevin Feige Productions, AGBO
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt21357150,2026-12-16,2026,en,['US'],165,Post Production,"['Science Fiction', 'Action', 'Adventure']",['English'],['United States of America'],0,0,59.8434,0.0,0,86311.0,The Avengers Collection,"[{'id': 420, 'name': 'Marvel Studios', 'origin_country': 'US'}, {'id': 176762, 'name': 'Kevin Feige Productions', 'origin_country': 'US'}, {'id': 106544, 'name': 'AGBO', 'origin_country': 'US'}]",https://www.marvel.com/movies/avengers-doomsday,/jzPwsojjFStf5lR5Nm07w2hH56G.jpg,/s4v0UX1anfXm0UvloLsTTJ4v222.jpg,1003596.json,416,53,False,False
+10138,Iron Man 2,Iron Man 2,"With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.","It's not the armor that makes the hero, but the man inside.","Title: Iron Man 2
+
+Tagline: It's not the armor that makes the hero, but the man inside.
+
+Overview: With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.
+
+Genres: Adventure, Action, Science Fiction
+
+Collection: Iron Man Collection
+
+Production Companies: Marvel Studios, Fairview Entertainment, Marvel Entertainment
+
+Production Countries: United States of America
+
+Spoken Languages: English, Russian, French",tt1228705,2010-04-28,2010,en,['US'],124,Released,"['Adventure', 'Action', 'Science Fiction']","['English', 'Russian', 'French']",['United States of America'],200000000,623933331,44.8532,6.855,22948,131292.0,Iron Man Collection,"[{'id': 420, 'name': 'Marvel Studios', 'origin_country': 'US'}, {'id': 7297, 'name': 'Fairview Entertainment', 'origin_country': 'US'}, {'id': 7505, 'name': 'Marvel Entertainment', 'origin_country': 'US'}]",https://www.marvel.com/movies/iron-man-2,/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg,/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg,10138.json,724,109,False,True
+1032863,The Love Hypothesis,The Love Hypothesis,"Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",Fake dating. Real chemistry.,"Title: The Love Hypothesis
+
+Tagline: Fake dating. Real chemistry.
+
+Overview: Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.
+
+Genres: Romance, Comedy
+
+Production Companies: MRC, Amazon MGM Studios, The Cantillon Company
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt22526100,2026-09-23,2026,en,['US'],112,Released,"['Romance', 'Comedy']",['English'],['United States of America'],0,0,273.1621,8.336,137,,,"[{'id': 2531, 'name': 'MRC', 'origin_country': 'US'}, {'id': 210099, 'name': 'Amazon MGM Studios', 'origin_country': 'US'}, {'id': 71170, 'name': 'The Cantillon Company', 'origin_country': 'US'}]",https://www.amazon.com/dp/B0H4WZS7VX,/vfZxVHextAGC70zrNhS8lsROqP1.jpg,/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg,1032863.json,463,65,False,False
+1058424,Hope,호프,"In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",Is this how it ends?,"Title: Hope
+
+Original Title: 호프
+
+Tagline: Is this how it ends?
+
+Overview: In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.
+
+Genres: Science Fiction, Mystery, Action
+
+Production Companies: Forged Films, Plus M Entertainment, Westworld Story
+
+Production Countries: South Korea
+
+Spoken Languages: Korean",tt27369017,2026-07-15,2026,ko,['KR'],157,Released,"['Science Fiction', 'Mystery', 'Action']",['Korean'],['South Korea'],46000000,41212538,55.1846,7.4,88,,,"[{'id': 196800, 'name': 'Forged Films', 'origin_country': 'KR'}, {'id': 91505, 'name': 'Plus M Entertainment', 'origin_country': 'KR'}, {'id': 168283, 'name': 'Westworld Story', 'origin_country': 'KR'}]",https://www.neonrated.com/film/hope,/1n37BJchWHLiSYQkuFxe5KjB951.jpg,/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg,1058424.json,614,91,False,False
+1081003,Supergirl,Supergirl,"When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",Truth. Justice. Whatever.,"Title: Supergirl
+
+Tagline: Truth. Justice. Whatever.
+
+Overview: When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.
+
+Genres: Action, Adventure, Science Fiction
+
+Production Companies: DC Studios, Troll Court Entertainment, The Safran Company, Domain Entertainment
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt8814476,2026-06-24,2026,en,['US'],108,Released,"['Action', 'Adventure', 'Science Fiction']",['English'],['United States of America'],175000000,126366532,63.9932,6.678,2399,,,"[{'id': 184898, 'name': 'DC Studios', 'origin_country': 'US'}, {'id': 94218, 'name': 'Troll Court Entertainment', 'origin_country': 'US'}, {'id': 11565, 'name': 'The Safran Company', 'origin_country': 'US'}, {'id': 216687, 'name': 'Domain Entertainment', 'origin_country': 'US'}]",https://www.supergirlmovie.com,/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg,/heZQmyNvkH236ha2M3JckdUQQqb.jpg,1081003.json,493,64,False,False
+1083381,Backrooms,Backrooms,A strange doorway appears in the basement of a furniture showroom.,See how far it goes.,"Title: Backrooms
+
+Tagline: See how far it goes.
+
+Overview: A strange doorway appears in the basement of a furniture showroom.
+
+Genres: Horror, Mystery, Science Fiction
+
+Production Companies: Atomic Monster, 21 Laps Entertainment, A24, Phobos, The North Road Company
+
+Production Countries: United States of America, Canada
+
+Spoken Languages: English",tt26657236,2026-05-27,2026,en,['US'],111,Released,"['Horror', 'Mystery', 'Science Fiction']",['English'],"['United States of America', 'Canada']",10000000,400926624,89.9788,7.031,3397,,,"[{'id': 76907, 'name': 'Atomic Monster', 'origin_country': 'US'}, {'id': 2575, 'name': '21 Laps Entertainment', 'origin_country': 'US'}, {'id': 41077, 'name': 'A24', 'origin_country': 'US'}, {'id': 262307, 'name': 'Phobos', 'origin_country': 'CA'}, {'id': 251729, 'name': 'The North Road Company', 'origin_country': 'US'}]",https://app.a24films.com/release/backrooms/522,/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg,/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg,1083381.json,348,48,False,False
+1084242,Zootopia 2,Zootopia 2,"After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",They're back with a twissst.,"Title: Zootopia 2
+
+Tagline: They're back with a twissst.
+
+Overview: After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.
+
+Genres: Animation, Adventure, Comedy, Mystery, Family
+
+Collection: Zootopia Collection
+
+Production Companies: Walt Disney Animation Studios, Walt Disney Animation Studios
+
+Production Countries: United States of America, Canada
+
+Spoken Languages: English",tt26443597,2025-11-26,2025,en,['US'],108,Released,"['Animation', 'Adventure', 'Comedy', 'Mystery', 'Family']",['English'],"['United States of America', 'Canada']",150000000,1868208796,74.11,7.674,3456,1084247.0,Zootopia Collection,"[{'id': 6125, 'name': 'Walt Disney Animation Studios', 'origin_country': 'US'}, {'id': 158526, 'name': 'Walt Disney Animation Studios', 'origin_country': 'CA'}]",https://movies.disney.com/zootopia-2,/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg,/lgotja3xMoJZbynwHfcQcJAEMWH.jpg,1084242.json,690,100,False,False
+1084244,Toy Story 5,Toy Story 5,"When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",It's on.,"Title: Toy Story 5
+
+Tagline: It's on.
+
+Overview: When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.
+
+Genres: Animation, Family, Comedy, Adventure
+
+Collection: Toy Story Collection
+
+Production Companies: Pixar
+
+Production Countries: United States of America
+
+Spoken Languages: English, Spanish",tt29355505,2026-06-17,2026,en,['US'],102,Released,"['Animation', 'Family', 'Comedy', 'Adventure']","['English', 'Spanish']",['United States of America'],250000000,1136476240,170.4058,8.344,2284,10194.0,Toy Story Collection,"[{'id': 3, 'name': 'Pixar', 'origin_country': 'US'}]",https://movies.disney.com/toy-story-5,/sfQtVlIHljToOwYjhe21KPGzZWK.jpg,/qjTqY5coNiz6sVtPng40IzltsoN.jpg,1084244.json,462,69,False,False
+1101383,The End of Oak Street,The End of Oak Street,"After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",Where goes the neighborhood.,"Title: The End of Oak Street
+
+Tagline: Where goes the neighborhood.
+
+Overview: After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.
+
+Genres: Science Fiction, Mystery, Thriller
+
+Production Companies: Warner Bros. Pictures, Domain Entertainment, Bad Robot, Jackson Pictures
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt27165187,2026-08-12,2026,en,['US'],100,Released,"['Science Fiction', 'Mystery', 'Thriller']",['English'],['United States of America'],80000000,120363694,413.3113,7.003,1486,,,"[{'id': 174, 'name': 'Warner Bros. Pictures', 'origin_country': 'US'}, {'id': 216687, 'name': 'Domain Entertainment', 'origin_country': 'US'}, {'id': 11461, 'name': 'Bad Robot', 'origin_country': 'US'}, {'id': 171235, 'name': 'Jackson Pictures', 'origin_country': 'US'}]",https://www.endofoakstreet.com,/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg,/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg,1101383.json,558,75,False,False
+1101412,Fall 2: Deadpoint,Fall 2: Deadpoint,"On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",Are you down?,"Title: Fall 2: Deadpoint
+
+Tagline: Are you down?
+
+Overview: On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.
+
+Genres: Thriller
+
+Collection: Fall Collection
+
+Production Companies: Tea Shop Productions, Capstone Pictures, Flawless Production, Cousin Jones
+
+Production Countries: United Kingdom, United States of America
+
+Spoken Languages: English",tt31192372,2026-09-01,2026,en,"['US', 'GB']",98,Released,['Thriller'],['English'],"['United Kingdom', 'United States of America']",3000000,9256541,58.2072,6.2,49,1102372.0,Fall Collection,"[{'id': 155758, 'name': 'Tea Shop Productions', 'origin_country': 'GB'}, {'id': 154063, 'name': 'Capstone Pictures', 'origin_country': 'US'}, {'id': 61975, 'name': 'Flawless Production', 'origin_country': 'GB'}, {'id': 303075, 'name': 'Cousin Jones', 'origin_country': 'US'}]",https://www.fall.movie/,/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg,/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg,1101412.json,522,70,False,False
+1108427,Moana,Moana,"Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",The ocean chose her for a reason.,"Title: Moana
+
+Tagline: The ocean chose her for a reason.
+
+Overview: Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.
+
+Genres: Family, Fantasy, Comedy, Adventure
+
+Production Companies: Walt Disney Pictures, Seven Bucks Productions, Flynn Picture Company, 5000 Broadway Productions
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt27419466,2026-07-08,2026,en,['US'],115,Released,"['Family', 'Fantasy', 'Comedy', 'Adventure']",['English'],['United States of America'],250000000,308159595,162.0438,7.405,763,,,"[{'id': 2, 'name': 'Walt Disney Pictures', 'origin_country': 'US'}, {'id': 73669, 'name': 'Seven Bucks Productions', 'origin_country': 'US'}, {'id': 34081, 'name': 'Flynn Picture Company', 'origin_country': 'US'}, {'id': 122645, 'name': '5000 Broadway Productions', 'origin_country': 'US'}]",https://movies.disney.com/moana-2026,/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg,/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg,1108427.json,510,73,False,False
+1127384,Deep Water,Deep Water,A group of international passengers on a flight from Los Angeles to Shanghai is forced to make an emergency landing in shark-infested waters. The terrified group is forced to work together and overcome their differences if they hope to escape their sinking plane and the frenzy of sharks drawn to the wreckage.,Surviving the crash is just the beginning.,"Title: Deep Water
+
+Tagline: Surviving the crash is just the beginning.
+
+Overview: A group of international passengers on a flight from Los Angeles to Shanghai is forced to make an emergency landing in shark-infested waters. The terrified group is forced to work together and overcome their differences if they hope to escape their sinking plane and the frenzy of sharks drawn to the wreckage.
+
+Genres: Horror, Thriller, Adventure
+
+Production Companies: Magenta Light Studios, Arclight Films, Simmons/Hamilton Productions, Nostromo Pictures, Aristos Films, DW Film Holdings, Rabbits Black, Blue Rider Pictures
+
+Production Countries: United States of America, Spain, Australia, China, Ukraine
+
+Spoken Languages: English, Mandarin",tt29516222,2026-04-30,2026,en,"['AU', 'US']",107,Released,"['Horror', 'Thriller', 'Adventure']","['English', 'Mandarin']","['United States of America', 'Spain', 'Australia', 'China', 'Ukraine']",40000000,7340233,71.6276,7.382,612,,,"[{'id': 231386, 'name': 'Magenta Light Studios', 'origin_country': 'US'}, {'id': 2520, 'name': 'Arclight Films', 'origin_country': 'US'}, {'id': 200176, 'name': 'Simmons/Hamilton Productions', 'origin_country': 'US'}, {'id': 11068, 'name': 'Nostromo Pictures', 'origin_country': 'ES'}, {'id': 76098, 'name': 'Aristos Films', 'origin_country': ''}, {'id': 293380, 'name': 'DW Film Holdings', 'origin_country': 'AU'}, {'id': 229487, 'name': 'Rabbits Black', 'origin_country': 'US'}, {'id': 2623, 'name': 'Blue Rider Pictures', 'origin_country': 'US'}]",,/ZWHxL2ETItcZzeVsVfs6gv3SZ7.jpg,/szKv713FcUXx6hcfdY369vtkmzr.jpg,1127384.json,727,103,False,False
+1130948,Rosebush Pruning,Rosebush Pruning,"When an American heir living in a luxurious Spanish villa decides to move in with his girlfriend, his departure triggers a family collapse as his brother uncovers the truth behind their mother's tragic death.",People are roses. Families are rosebushes. Rosebushes need pruning.,"Title: Rosebush Pruning
+
+Tagline: People are roses. Families are rosebushes. Rosebushes need pruning.
+
+Overview: When an American heir living in a luxurious Spanish villa decides to move in with his girlfriend, his departure triggers a family collapse as his brother uncovers the truth behind their mother's tragic death.
+
+Genres: Comedy, Drama, Thriller
+
+Production Companies: Kavac Film, The Match Factory, MUBI, Sur Film, Crybaby, The Apartment Pictures, In Bloom, Cinema Inflámavel, Gold Rush Pictures, Rosebushpruning, SCoT(T), Metafilms
+
+Production Countries: Germany, Italy, United Kingdom, Spain, Canada, Brazil, France
+
+Spoken Languages: English",tt27844906,2026-04-23,2026,en,['GB'],95,Released,"['Comedy', 'Drama', 'Thriller']",['English'],"['Germany', 'Italy', 'United Kingdom', 'Spain', 'Canada', 'Brazil', 'France']",0,85294,79.8226,6.1,55,,,"[{'id': 117672, 'name': 'Kavac Film', 'origin_country': 'IT'}, {'id': 7306, 'name': 'The Match Factory', 'origin_country': 'DE'}, {'id': 204957, 'name': 'MUBI', 'origin_country': 'GB'}, {'id': 223013, 'name': 'Sur Film', 'origin_country': 'ES'}, {'id': 214895, 'name': 'Crybaby', 'origin_country': 'GB'}, {'id': 128344, 'name': 'The Apartment Pictures', 'origin_country': 'IT'}, {'id': 251066, 'name': 'In Bloom', 'origin_country': 'IT'}, {'id': 187321, 'name': 'Cinema Inflámavel', 'origin_country': 'BR'}, {'id': 221028, 'name': 'Gold Rush Pictures', 'origin_country': 'GB'}, {'id': 289340, 'name': 'Rosebushpruning', 'origin_country': 'ES'}, {'id': 309458, 'name': 'SCoT(T)', 'origin_country': 'FR'}, {'id': 13839, 'name': 'Metafilms', 'origin_country': 'CA'}]",,/rsHEVjzxU8cxz1sm3vboj99daNv.jpg,/vcZ3UUVmFNk90DBSrTBlTKCdbbE.jpg,1130948.json,654,89,False,False
+1137844,Mayday,Mayday,"When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",A friendship with major red flags.,"Title: Mayday
+
+Tagline: A friendship with major red flags.
+
+Overview: When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.
+
+Genres: Action, Comedy
+
+Production Companies: Skydance Media, Maximum Effort, GoldDay
+
+Production Countries: United States of America
+
+Spoken Languages: English, Russian",tt28014327,2026-09-03,2026,en,['US'],111,Released,"['Action', 'Comedy']","['English', 'Russian']",['United States of America'],0,0,76.4895,8.051,787,,,"[{'id': 82819, 'name': 'Skydance Media', 'origin_country': 'US'}, {'id': 104228, 'name': 'Maximum Effort', 'origin_country': 'US'}, {'id': 129200, 'name': 'GoldDay', 'origin_country': 'US'}]",https://tv.apple.com/movie/umc.cmc.shin43vzfoz3h4ggx41z8rf,/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg,/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg,1137844.json,423,63,False,False
+1156869,Blaze of Love,性迷宮,Hong Kong movie,,"Title: Blaze of Love
+
+Original Title: 性迷宮
+
+Overview: Hong Kong movie",,1994-01-01,1994,en,['HK'],0,Released,[],[],[],0,0,70.6877,0.0,0,,,[],,/cSOW4av17KfO9K2CRqKCjMbeoMw.jpg,,1156869.json,68,11,False,False
+1184918,The Wild Robot,The Wild Robot,"After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",Discover your true nature.,"Title: The Wild Robot
+
+Tagline: Discover your true nature.
+
+Overview: After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.
+
+Genres: Family, Animation, Science Fiction, Adventure
+
+Collection: The Wild Robot Collection
+
+Production Companies: DreamWorks Animation
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt29623480,2024-09-12,2024,en,['US'],102,Released,"['Family', 'Animation', 'Science Fiction', 'Adventure']",['English'],['United States of America'],78000000,331982078,59.4499,8.308,6634,1370345.0,The Wild Robot Collection,"[{'id': 521, 'name': 'DreamWorks Animation', 'origin_country': 'US'}]",https://www.thewildrobotmovie.com,/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg,/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg,1184918.json,479,66,False,False
+1185806,PAW Patrol: The Dino Movie,PAW Patrol: The Dino Movie,"The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",An adventure of prehistoric pawportions.,"Title: PAW Patrol: The Dino Movie
+
+Tagline: An adventure of prehistoric pawportions.
+
+Overview: The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.
+
+Genres: Animation, Adventure, Family, Fantasy, Comedy
+
+Collection: PAW Patrol (Theatrical) Collection
+
+Production Companies: Spin Master, Nickelodeon Movies, Paramount Animation
+
+Production Countries: Canada, United States of America
+
+Spoken Languages: English",tt29356163,2026-07-23,2026,en,['CA'],88,Released,"['Animation', 'Adventure', 'Family', 'Fantasy', 'Comedy']",['English'],"['Canada', 'United States of America']",40000000,138326933,88.3671,7.989,134,893731.0,PAW Patrol (Theatrical) Collection,"[{'id': 71738, 'name': 'Spin Master', 'origin_country': 'CA'}, {'id': 2348, 'name': 'Nickelodeon Movies', 'origin_country': 'US'}, {'id': 24955, 'name': 'Paramount Animation', 'origin_country': 'US'}]",https://www.paramountpictures.com/movies/paw-patrol-3-the-dino-movie,/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg,/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg,1185806.json,583,80,False,False
+1204680,Coyote vs. Acme,Coyote vs. Acme,"After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",The movie ACME doesn't want you to see.,"Title: Coyote vs. Acme
+
+Tagline: The movie ACME doesn't want you to see.
+
+Overview: After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.
+
+Genres: Comedy, Adventure, Family
+
+Production Companies: Troll Court Entertainment, Keylight Pictures, Warner Animation Group, Warner Bros. Pictures
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt1756855,2026-08-20,2026,en,['US'],103,Released,"['Comedy', 'Adventure', 'Family']",['English'],['United States of America'],72000000,79825108,347.0415,7.544,507,,,"[{'id': 94218, 'name': 'Troll Court Entertainment', 'origin_country': 'US'}, {'id': 296158, 'name': 'Keylight Pictures', 'origin_country': 'US'}, {'id': 25120, 'name': 'Warner Animation Group', 'origin_country': 'US'}, {'id': 174, 'name': 'Warner Bros. Pictures', 'origin_country': 'US'}]",https://coyotevsacme.com,/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg,/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg,1204680.json,476,70,False,False
+1212763,Evil Dead Burn,Evil Dead Burn,"After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",Every family has its demons.,"Title: Evil Dead Burn
+
+Tagline: Every family has its demons.
+
+Overview: After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.
+
+Genres: Horror
+
+Production Companies: New Line Cinema, Screen Gems, Ghost House Pictures
+
+Production Countries: United States of America
+
+Spoken Languages: English, French",tt31170389,2026-07-07,2026,en,['US'],110,Released,['Horror'],"['English', 'French']",['United States of America'],20000000,71491178,55.488,7.682,1578,,,"[{'id': 12, 'name': 'New Line Cinema', 'origin_country': 'US'}, {'id': 3287, 'name': 'Screen Gems', 'origin_country': 'US'}, {'id': 768, 'name': 'Ghost House Pictures', 'origin_country': 'US'}]",https://www.warnerbros.com/movies/evil-dead-burn,/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg,/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg,1212763.json,530,82,False,True
+122,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,"As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",There can be no triumph without loss. No victory without suffering. No freedom without sacrifice.,"Title: The Lord of the Rings: The Return of the King
+
+Tagline: There can be no triumph without loss. No victory without suffering. No freedom without sacrifice.
+
+Overview: As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​
+
+Genres: Adventure, Fantasy, Action
+
+Collection: The Lord of the Rings Collection
+
+Production Companies: New Line Cinema, WingNut Films, The Saul Zaentz Company
+
+Production Countries: New Zealand, United States of America
+
+Spoken Languages: English",tt0167260,2003-12-17,2003,en,['US'],201,Released,"['Adventure', 'Fantasy', 'Action']",['English'],"['New Zealand', 'United States of America']",94000000,1118888979,50.7623,8.505,27411,119.0,The Lord of the Rings Collection,"[{'id': 12, 'name': 'New Line Cinema', 'origin_country': 'US'}, {'id': 11, 'name': 'WingNut Films', 'origin_country': 'NZ'}, {'id': 5237, 'name': 'The Saul Zaentz Company', 'origin_country': 'US'}]",http://www.lordoftherings.net,/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg,/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg,122.json,944,155,False,True
+1224993,Dark Nuns,검은 수녀들,"Desperation drives two nuns to perform an exorcism no nun should attempt. With a possessed child at the mercy of evil and the opposition of the Catholic Church, they take on the dangerous forbidden rituals themselves, putting their immortal souls in grave danger. They must confront the terrifying cost of their sacrilegious actions, but one goal remains: the boy must be saved at all costs.",We're ready to face the forbidden dark.,"Title: Dark Nuns
+
+Original Title: 검은 수녀들
+
+Tagline: We're ready to face the forbidden dark.
+
+Overview: Desperation drives two nuns to perform an exorcism no nun should attempt. With a possessed child at the mercy of evil and the opposition of the Catholic Church, they take on the dangerous forbidden rituals themselves, putting their immortal souls in grave danger. They must confront the terrifying cost of their sacrilegious actions, but one goal remains: the boy must be saved at all costs.
+
+Genres: Horror, Mystery, Thriller, Drama
+
+Collection: The Priests Collection
+
+Production Companies: Zip Cinema
+
+Production Countries: South Korea
+
+Spoken Languages: Korean, Italian, Latin",tt32491690,2025-01-24,2025,ko,['KR'],115,Released,"['Horror', 'Mystery', 'Thriller', 'Drama']","['Korean', 'Italian', 'Latin']",['South Korea'],0,12140335,109.963,6.165,97,1390673.0,The Priests Collection,"[{'id': 85150, 'name': 'Zip Cinema', 'origin_country': 'KR'}]",,/2Abt2GgscAGtGAXTrhH44qPhugI.jpg,/bQdYYutvomoxfLQK8gTV8Z3qsmv.jpg,1224993.json,682,103,False,False
+1226863,The Super Mario Galaxy Movie,The Super Mario Galaxy Movie,"Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",The galaxy awaits.,"Title: The Super Mario Galaxy Movie
+
+Tagline: The galaxy awaits.
+
+Overview: Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.
+
+Genres: Family, Comedy, Adventure, Fantasy, Animation
+
+Collection: The Super Mario Collection
+
+Production Companies: Illumination, Universal Pictures, Nintendo
+
+Production Countries: Japan, United States of America
+
+Spoken Languages: English",tt28650488,2026-04-01,2026,en,['US'],98,Released,"['Family', 'Comedy', 'Adventure', 'Fantasy', 'Animation']",['English'],"['Japan', 'United States of America']",110000000,1012203331,55.7674,8.223,3716,1434561.0,The Super Mario Collection,"[{'id': 6704, 'name': 'Illumination', 'origin_country': 'US'}, {'id': 33, 'name': 'Universal Pictures', 'origin_country': 'US'}, {'id': 12288, 'name': 'Nintendo', 'origin_country': 'JP'}]",https://www.thesupermariogalaxymovie.com,/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg,/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg,1226863.json,629,89,False,False
+1228710,The Mandalorian and Grogu,The Mandalorian and Grogu,"The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.","If you're searching for new adventure, ""this is the way.""","Title: The Mandalorian and Grogu
+
+Tagline: If you're searching for new adventure, ""this is the way.""
+
+Overview: The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.
+
+Genres: Action, Adventure, Science Fiction
+
+Production Companies: Lucasfilm Ltd., Fairview Entertainment
+
+Production Countries: United States of America
+
+Spoken Languages: English, Aymara",tt30825738,2026-05-20,2026,en,['US'],132,Released,"['Action', 'Adventure', 'Science Fiction']","['English', 'Aymara']",['United States of America'],165000000,345166617,72.6761,7.472,1714,,,"[{'id': 1, 'name': 'Lucasfilm Ltd.', 'origin_country': 'US'}, {'id': 7297, 'name': 'Fairview Entertainment', 'origin_country': 'US'}]",https://www.starwars.com/films/star-wars-the-mandalorian-and-grogu,/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg,/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg,1228710.json,584,81,False,False
+1228834,The Fix,The Fix,"Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",Settle the score.,"Title: The Fix
+
+Tagline: Settle the score.
+
+Overview: Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.
+
+Genres: Action, Thriller
+
+Production Companies: Astral Future, Dreamtime Entertainment, Oakhurst Entertainment, BondIt Media Capital, Latigo Films, Blue Rider Pictures, Rabbits Black, Thomasville Pictures, Eyevox Entertainment
+
+Production Countries: United States of America
+
+Spoken Languages: Arabic, English",tt9601292,2026-09-10,2026,en,['US'],142,Released,"['Action', 'Thriller']","['Arabic', 'English']",['United States of America'],32000000,0,155.2676,7.179,28,,,"[{'id': 217982, 'name': 'Astral Future', 'origin_country': 'US'}, {'id': 208153, 'name': 'Dreamtime Entertainment', 'origin_country': ''}, {'id': 124504, 'name': 'Oakhurst Entertainment', 'origin_country': 'US'}, {'id': 121204, 'name': 'BondIt Media Capital', 'origin_country': 'US'}, {'id': 198605, 'name': 'Latigo Films', 'origin_country': ''}, {'id': 2623, 'name': 'Blue Rider Pictures', 'origin_country': 'US'}, {'id': 229487, 'name': 'Rabbits Black', 'origin_country': 'US'}, {'id': 179981, 'name': 'Thomasville Pictures', 'origin_country': 'US'}, {'id': 185588, 'name': 'Eyevox Entertainment', 'origin_country': ''}]",,/yopXjun3ICFfJci2ukcEzceZjUs.jpg,/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg,1228834.json,519,69,False,False
+1232569,Pinocchio: Unstrung,Pinocchio: Unstrung,"Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",He has no strings to hold him back now.,"Title: Pinocchio: Unstrung
+
+Tagline: He has no strings to hold him back now.
+
+Overview: Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.
+
+Genres: Horror, Fantasy, Mystery
+
+Production Companies: Jagged Edge Productions
+
+Production Countries: United Kingdom
+
+Spoken Languages: English",tt30887701,2026-07-22,2026,en,['GB'],82,Released,"['Horror', 'Fantasy', 'Mystery']",['English'],['United Kingdom'],500000,821127,130.591,6.6,108,,,"[{'id': 155744, 'name': 'Jagged Edge Productions', 'origin_country': 'GB'}]",https://www.altitude.film/pinocchio-unstrung,/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg,/dNKFETDDujxm2PUN873Jwiw5VML.jpg,1232569.json,406,60,False,False
+1234821,Jurassic World Rebirth,Jurassic World Rebirth,"Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",A new era is born.,"Title: Jurassic World Rebirth
+
+Tagline: A new era is born.
+
+Overview: Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.
+
+Genres: Science Fiction, Adventure, Action
+
+Collection: Jurassic Park Collection
+
+Production Companies: Universal Pictures, Amblin Entertainment
+
+Production Countries: United States of America
+
+Spoken Languages: English, French",tt31036941,2025-06-23,2025,en,['US'],134,Released,"['Science Fiction', 'Adventure', 'Action']","['English', 'French']",['United States of America'],180000000,869146189,52.9577,6.259,3781,328.0,Jurassic Park Collection,"[{'id': 33, 'name': 'Universal Pictures', 'origin_country': 'US'}, {'id': 56, 'name': 'Amblin Entertainment', 'origin_country': 'US'}]",https://www.jurassicworld.com,/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg,/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg,1234821.json,781,110,False,False
+1240889,Teenage Sex and Death at Camp Miasma,Teenage Sex and Death at Camp Miasma,"After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",Blood. Lust.,"Title: Teenage Sex and Death at Camp Miasma
+
+Tagline: Blood. Lust.
+
+Overview: After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.
+
+Genres: Comedy, Horror, Romance
+
+Production Companies: MUBI, Plan B Entertainment
+
+Production Countries: United Kingdom, United States of America
+
+Spoken Languages: English",tt35298123,2026-08-06,2026,en,['US'],112,Released,"['Comedy', 'Horror', 'Romance']",['English'],"['United Kingdom', 'United States of America']",8000000,8525000,125.7916,6.3,180,,,"[{'id': 204957, 'name': 'MUBI', 'origin_country': 'GB'}, {'id': 81, 'name': 'Plan B Entertainment', 'origin_country': 'US'}]",https://mubi.com/en/campmiasma,/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg,/d1n2ySWSanU34eEsluRjfrjRq52.jpg,1240889.json,539,78,False,True
+1263337,Heart of the Beast,Heart of the Beast,"After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",Survival depends on their bond.,"Title: Heart of the Beast
+
+Tagline: Survival depends on their bond.
+
+Overview: After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.
+
+Genres: Adventure, Thriller
+
+Production Companies: Paramount Pictures, Wild Chickens Productions, Temple Hill Entertainment, Domain Entertainment, GulfStream Pictures, Kino World
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt7526136,2026-09-19,2026,en,['US'],101,Released,"['Adventure', 'Thriller']",['English'],['United States of America'],82000000,0,104.7042,8.0,36,,,"[{'id': 4, 'name': 'Paramount Pictures', 'origin_country': 'US'}, {'id': 224269, 'name': 'Wild Chickens Productions', 'origin_country': 'US'}, {'id': 12292, 'name': 'Temple Hill Entertainment', 'origin_country': 'US'}, {'id': 216687, 'name': 'Domain Entertainment', 'origin_country': 'US'}, {'id': 20788, 'name': 'GulfStream Pictures', 'origin_country': 'US'}, {'id': 301387, 'name': 'Kino World', 'origin_country': 'US'}]",https://www.heartofthebeastmovie.com/,/1ApfSA8JTqeha3GTFEY8syV4auq.jpg,/bicMU6xVD5deVyKP2azpyx7xkmH.jpg,1263337.json,565,76,False,False
+1273221,Scary Movie,Scary Movie,"Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",Every line will be crossed.,"Title: Scary Movie
+
+Tagline: Every line will be crossed.
+
+Overview: Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.
+
+Genres: Comedy
+
+Collection: Scary Movie Collection
+
+Production Companies: Wayans Bros. Entertainment, Miramax
+
+Production Countries: United States of America
+
+Spoken Languages: English, Korean, Portuguese, Spanish",tt32093575,2026-06-03,2026,en,['US'],96,Released,['Comedy'],"['English', 'Korean', 'Portuguese', 'Spanish']",['United States of America'],30000000,231886052,54.062,6.376,1938,4246.0,Scary Movie Collection,"[{'id': 1608, 'name': 'Wayans Bros. Entertainment', 'origin_country': 'US'}, {'id': 14, 'name': 'Miramax', 'origin_country': 'US'}]",https://www.scarymovie.film,/znHT8peERZRWG1ME3r0Db0EV8k8.jpg,/xWBiXclrRmTggQHMRsIn84YHavs.jpg,1273221.json,437,59,False,False
+1275779,Disclosure Day,Disclosure Day,"A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",We deserve to know.,"Title: Disclosure Day
+
+Tagline: We deserve to know.
+
+Overview: A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.
+
+Genres: Science Fiction, Thriller
+
+Production Companies: Universal Pictures, Amblin Entertainment
+
+Production Countries: United States of America
+
+Spoken Languages: English, Russian, Korean",tt15047880,2026-06-10,2026,en,['US'],146,Released,"['Science Fiction', 'Thriller']","['English', 'Russian', 'Korean']",['United States of America'],115000000,241186430,82.3737,7.5,3422,,,"[{'id': 33, 'name': 'Universal Pictures', 'origin_country': 'US'}, {'id': 56, 'name': 'Amblin Entertainment', 'origin_country': 'US'}]",https://www.disclosuredaymovie.com,/AnJ8IQJI23hNpYXVNaythu061Ru.jpg,/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg,1275779.json,510,66,False,False
+1280738,The Furious,火遮眼,"After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.","To save their loved ones, they will fight everyone.","Title: The Furious
+
+Original Title: 火遮眼
+
+Tagline: To save their loved ones, they will fight everyone.
+
+Overview: After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.
+
+Genres: Action, Crime, Thriller
+
+Production Companies: Edko Films, XYZ Films, Zhejiang Hengdian Film Production
+
+Production Countries: Hong Kong, China, United States of America
+
+Spoken Languages: English, Indonesian, Mandarin, Tagalog, Thai",tt33311069,2026-06-10,2026,zh,"['CN', 'HK']",113,Released,"['Action', 'Crime', 'Thriller']","['English', 'Indonesian', 'Mandarin', 'Tagalog', 'Thai']","['Hong Kong', 'China', 'United States of America']",20000000,39745080,54.3778,8.189,756,,,"[{'id': 10284, 'name': 'Edko Films', 'origin_country': 'HK'}, {'id': 12142, 'name': 'XYZ Films', 'origin_country': 'US'}, {'id': 131092, 'name': 'Zhejiang Hengdian Film Production', 'origin_country': 'CN'}]",https://www.lionsgate.com/movies/the-furious,/ivQ1Z3lI1xWvAeGDHBw3CCYZDGJ.jpg,/i0eR9O1FnCgBm1cH8WwqxGbAXMS.jpg,1280738.json,700,103,False,False
+1284465,The Death of Robin Hood,The Death of Robin Hood,"Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",He was no hero.,"Title: The Death of Robin Hood
+
+Tagline: He was no hero.
+
+Overview: Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.
+
+Genres: Adventure, Drama, Action
+
+Production Companies: Lyrical Media, Ryder Picture Company
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt32273171,2026-06-18,2026,en,['US'],123,Released,"['Adventure', 'Drama', 'Action']",['English'],['United States of America'],25000000,3200000,56.2398,6.368,344,,,"[{'id': 180839, 'name': 'Lyrical Media', 'origin_country': 'US'}, {'id': 172841, 'name': 'Ryder Picture Company', 'origin_country': 'US'}]",https://a24films.com/films/the-death-of-robin-hood,/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg,/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg,1284465.json,453,72,False,False
+1285366,Shape of My Heart,愛のぬくもり,"A romance about a man and a woman who, due to an unexpected event, end up switching bodies. Despite coming from completely different backgrounds and environments, the two try to overcome the various difficulties that arise from their body swap.",,"Title: Shape of My Heart
+
+Original Title: 愛のぬくもり
+
+Overview: A romance about a man and a woman who, due to an unexpected event, end up switching bodies. Despite coming from completely different backgrounds and environments, the two try to overcome the various difficulties that arise from their body swap.
+
+Genres: Romance
+
+Production Companies: Legend Pictures
+
+Production Countries: Japan
+
+Spoken Languages: Japanese",tt33349025,2024-07-06,2024,ja,['JP'],91,Released,['Romance'],['Japanese'],['Japan'],0,0,95.9371,5.7,8,,,"[{'id': 62454, 'name': 'Legend Pictures', 'origin_country': 'JP'}]",,/3r0O6BW9USoZ9mteCVyNKMQriRL.jpg,/yjK3ardrgdS8suZG8KMU82Q7U38.jpg,1285366.json,417,61,False,False
+1288445,Mutiny,Mutiny,"After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",There's blood in the water.,"Title: Mutiny
+
+Tagline: There's blood in the water.
+
+Overview: After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.
+
+Genres: Action, Thriller
+
+Production Companies: Punch Palace Productions, MadRiver Pictures
+
+Production Countries: United Kingdom, United States of America
+
+Spoken Languages: English",tt32338669,2026-08-19,2026,en,['US'],96,Released,"['Action', 'Thriller']",['English'],"['United Kingdom', 'United States of America']",40000000,20824283,209.3601,6.658,480,,,"[{'id': 218150, 'name': 'Punch Palace Productions', 'origin_country': 'GB'}, {'id': 73492, 'name': 'MadRiver Pictures', 'origin_country': 'US'}]",https://www.mutiny.movie,/pu2VxGlpGwffOx292w18b1tv96j.jpg,/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg,1288445.json,447,63,False,False
+1294189,The Mongoose,The Mongoose,"A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",,"Title: The Mongoose
+
+Overview: A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.
+
+Genres: Action, Thriller
+
+Production Companies: Code Entertainment, The Solution
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt13611778,2026-10-29,2026,en,['US'],99,Post Production,"['Action', 'Thriller']",['English'],['United States of America'],0,0,249.4488,0.0,0,,,"[{'id': 14589, 'name': 'Code Entertainment', 'origin_country': 'US'}, {'id': 33768, 'name': 'The Solution', 'origin_country': 'US'}]",,/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg,/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg,1294189.json,431,62,False,False
+1302904,Practical Magic 2,Practical Magic 2,The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.,Everything you've witched for.,"Title: Practical Magic 2
+
+Tagline: Everything you've witched for.
+
+Overview: The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.
+
+Genres: Romance, Fantasy, Comedy
+
+Collection: Practical Magic Collection
+
+Production Companies: Di Novi Pictures, Warner Bros. Pictures, Blossom Films, Fortis Films, Domain Entertainment, Alcon Entertainment
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt32588798,2026-09-09,2026,en,['US'],130,Released,"['Romance', 'Fantasy', 'Comedy']",['English'],['United States of America'],75000000,46000000,52.2859,6.253,83,1354706.0,Practical Magic Collection,"[{'id': 813, 'name': 'Di Novi Pictures', 'origin_country': 'US'}, {'id': 174, 'name': 'Warner Bros. Pictures', 'origin_country': 'US'}, {'id': 32537, 'name': 'Blossom Films', 'origin_country': 'US'}, {'id': 4258, 'name': 'Fortis Films', 'origin_country': 'US'}, {'id': 216687, 'name': 'Domain Entertainment', 'origin_country': 'US'}, {'id': 1088, 'name': 'Alcon Entertainment', 'origin_country': 'US'}]",https://www.practicalmagicmovie.com,/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg,/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg,1302904.json,464,61,False,False
+1311031,Demon Slayer: Kimetsu no Yaiba Infinity Castle,劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来,"The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",It's time to have some fun.,"Title: Demon Slayer: Kimetsu no Yaiba Infinity Castle
+
+Original Title: 劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来
+
+Tagline: It's time to have some fun.
+
+Overview: The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.
+
+Genres: Animation, Action, Fantasy
+
+Collection: Demon Slayer: Kimetsu no Yaiba Collection
+
+Production Companies: ufotable, Aniplex, Shueisha
+
+Production Countries: Japan
+
+Spoken Languages: Japanese",tt32820897,2025-07-18,2025,ja,['JP'],156,Released,"['Animation', 'Action', 'Fantasy']",['Japanese'],['Japan'],20000000,793594078,57.1426,8.8,2173,925155.0,Demon Slayer: Kimetsu no Yaiba Collection,"[{'id': 5887, 'name': 'ufotable', 'origin_country': 'JP'}, {'id': 2883, 'name': 'Aniplex', 'origin_country': 'JP'}, {'id': 2918, 'name': 'Shueisha', 'origin_country': 'JP'}]",https://www.crunchyroll.com/series/G8DHV7809/demon-slayer-kimetsu-no-yaiba-infinity-castle-i,/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg,/1RgPyOhN4DRs225BGTlHJqCudII.jpg,1311031.json,547,76,False,False
+1315772,Minions & Monsters,Minions & Monsters,"This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",Hollywood has a monster problem.,"Title: Minions & Monsters
+
+Tagline: Hollywood has a monster problem.
+
+Overview: This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.
+
+Genres: Adventure, Animation, Comedy, Family, Fantasy
+
+Collection: Minions Collection
+
+Production Companies: Universal Pictures, Illumination
+
+Production Countries: United States of America
+
+Spoken Languages: English, Spanish",tt32890033,2026-06-24,2026,en,['US'],90,Released,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']","['English', 'Spanish']",['United States of America'],85000000,519033384,93.9114,7.549,1164,544669.0,Minions Collection,"[{'id': 33, 'name': 'Universal Pictures', 'origin_country': 'US'}, {'id': 6704, 'name': 'Illumination', 'origin_country': 'US'}]",https://www.minionsmovie.com,/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg,/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg,1315772.json,568,77,False,False
+1323244,Rage of Stars,Rage of Stars,"A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.",,"Title: Rage of Stars
+
+Overview: A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.
+
+Genres: Action, Science Fiction, Thriller
+
+Production Companies: Lukra Films
+
+Production Countries: Poland",tt29512655,2026-08-06,2026,en,['PL'],106,Released,"['Action', 'Science Fiction', 'Thriller']",[],['Poland'],0,0,98.7237,6.684,190,,,"[{'id': 235192, 'name': 'Lukra Films', 'origin_country': 'PL'}]",https://www.rageofstars.com/,/oLld47ZT1I3iecM3OWhIphohQUJ.jpg,/z7lZgL5tzefTfhyRtouThFhsuUS.jpg,1323244.json,264,38,False,False
+1339713,Obsession,Obsession,"After breaking the mysterious ""One Wish Willow"" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",Be careful who you wish for…,"Title: Obsession
+
+Tagline: Be careful who you wish for…
+
+Overview: After breaking the mysterious ""One Wish Willow"" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.
+
+Genres: Horror, Thriller
+
+Production Companies: Tea Shop Productions, Under the Shell, Capstone Pictures, Blumhouse Productions
+
+Production Countries: United States of America, United Kingdom
+
+Spoken Languages: English",tt37287335,2026-05-13,2026,en,['US'],109,Released,"['Horror', 'Thriller']",['English'],"['United States of America', 'United Kingdom']",750000,519516701,143.1283,8.195,5702,,,"[{'id': 155758, 'name': 'Tea Shop Productions', 'origin_country': 'GB'}, {'id': 273145, 'name': 'Under the Shell', 'origin_country': 'US'}, {'id': 154063, 'name': 'Capstone Pictures', 'origin_country': 'US'}, {'id': 3172, 'name': 'Blumhouse Productions', 'origin_country': 'US'}]",http://www.focusfeatures.com/obsession,/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg,/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg,1339713.json,497,71,False,False
+1368337,The Odyssey,The Odyssey,"Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",Defy the gods.,"Title: The Odyssey
+
+Tagline: Defy the gods.
+
+Overview: Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.
+
+Genres: Adventure, Action, Fantasy
+
+Production Companies: Universal Pictures, Syncopy
+
+Production Countries: United Kingdom, United States of America
+
+Spoken Languages: English",tt33764258,2026-07-15,2026,en,"['GB', 'US']",173,Released,"['Adventure', 'Action', 'Fantasy']",['English'],"['United Kingdom', 'United States of America']",250000000,1723918419,333.221,8.018,3892,,,"[{'id': 33, 'name': 'Universal Pictures', 'origin_country': 'US'}, {'id': 9996, 'name': 'Syncopy', 'origin_country': 'GB'}]",https://www.universalpictures.com/movies/the-odyssey,/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg,/iuylzRSllrGn7YB322kwKoOVMcq.jpg,1368337.json,513,74,False,False
+1375646,Colony,군체,"Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",Survive the hive.,"Title: Colony
+
+Original Title: 군체
+
+Tagline: Survive the hive.
+
+Overview: Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.
+
+Genres: Action, Horror, Science Fiction
+
+Production Companies: Wow Point, Smilegate Entertainment, Midnight Studio
+
+Production Countries: South Korea
+
+Spoken Languages: Korean",tt34385135,2026-05-21,2026,ko,['KR'],123,Released,"['Action', 'Horror', 'Science Fiction']",['Korean'],['South Korea'],0,0,243.0215,8.1,874,,,"[{'id': 218768, 'name': 'Wow Point', 'origin_country': 'KR'}, {'id': 246330, 'name': 'Smilegate Entertainment', 'origin_country': 'KR'}, {'id': 243139, 'name': 'Midnight Studio', 'origin_country': 'KR'}]",https://wellgousa.com/films/colony,/tN799oUR0f1gUKDYdMNrDaY7I51.jpg,/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg,1375646.json,570,79,False,False
+1377237,Runner,Runner,"A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",Next-day delivery isn't an option.,"Title: Runner
+
+Tagline: Next-day delivery isn't an option.
+
+Overview: A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.
+
+Genres: Action, Comedy, Thriller
+
+Production Companies: Broken Road Productions, AllyCat Entertainment, Nickel City Pictures, A Higher Standard, G2 Dispatch, Angel Studios, International Media Funds Management, Bright White Light
+
+Production Countries: United States of America, Australia, United Kingdom
+
+Spoken Languages: English, Portuguese",tt31349844,2026-09-07,2026,en,['US'],97,Released,"['Action', 'Comedy', 'Thriller']","['English', 'Portuguese']","['United States of America', 'Australia', 'United Kingdom']",0,6432956,59.7221,7.6,35,,,"[{'id': 8000, 'name': 'Broken Road Productions', 'origin_country': 'US'}, {'id': 72954, 'name': 'AllyCat Entertainment', 'origin_country': 'US'}, {'id': 110723, 'name': 'Nickel City Pictures', 'origin_country': 'US'}, {'id': 221397, 'name': 'A Higher Standard', 'origin_country': 'US'}, {'id': 219277, 'name': 'G2 Dispatch', 'origin_country': 'AU'}, {'id': 165435, 'name': 'Angel Studios', 'origin_country': 'US'}, {'id': 309655, 'name': 'International Media Funds Management', 'origin_country': 'AU'}, {'id': 209819, 'name': 'Bright White Light', 'origin_country': 'GB'}]",https://www.angel.com/movies/runner,/yBKMAIj7clP42UkFejhGDBBoTpb.jpg,/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg,1377237.json,813,120,False,False
+1386238,Black Gold,Oro negro,"Ramiro meets Damián again after years without seeing each other. Damián always has some shady business going on. This time he wants to go in a search of a certain treasure hidden in an abandoned convent. Lara, Ramiro's girlfriend, doesn't trust Damián and decides to accompany them. What they don't know is that taking that thing from there could unleash a curse that will haunt them forever, unless they return it just as they found it.",,"Title: Black Gold
+
+Original Title: Oro negro
+
+Overview: Ramiro meets Damián again after years without seeing each other. Damián always has some shady business going on. This time he wants to go in a search of a certain treasure hidden in an abandoned convent. Lara, Ramiro's girlfriend, doesn't trust Damián and decides to accompany them. What they don't know is that taking that thing from there could unleash a curse that will haunt them forever, unless they return it just as they found it.
+
+Genres: Horror
+
+Production Companies: Misil Producciones, Pluma Cine, Closer
+
+Production Countries: Argentina
+
+Spoken Languages: Spanish",tt21220878,2024-12-06,2024,es,['AR'],64,Released,['Horror'],['Spanish'],['Argentina'],0,0,60.9569,3.0,1,,,"[{'id': 144925, 'name': 'Misil Producciones', 'origin_country': ''}, {'id': 220736, 'name': 'Pluma Cine', 'origin_country': ''}, {'id': 279535, 'name': 'Closer', 'origin_country': ''}]",,/cULEEfczauEprB8IX1S6c62x4E9.jpg,/8IXRm88SZZQHEWTNHaYC8PNYXj0.jpg,1386238.json,631,99,False,True
+1386315,The Runner,The Runner,"Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",One hour. One chance to save her son.,"Title: The Runner
+
+Tagline: One hour. One chance to save her son.
+
+Overview: Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.
+
+Genres: Thriller, Action
+
+Production Companies: Amazon MGM Studios, Rockwood Pictures
+
+Production Countries: United States of America, United Kingdom
+
+Spoken Languages: English",tt34564059,2026-09-03,2026,en,"['GB', 'US']",86,Released,"['Thriller', 'Action']",['English'],"['United States of America', 'United Kingdom']",0,0,104.3285,6.773,562,,,"[{'id': 210099, 'name': 'Amazon MGM Studios', 'origin_country': 'US'}, {'id': 244481, 'name': 'Rockwood Pictures', 'origin_country': 'GB'}]",https://www.amazon.com/dp/B0H8NPW2KZ,/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg,/jzBWExXacS33rMQ2zLBrqIVweyG.jpg,1386315.json,530,87,False,False
+1393326,Ghost in the Cell,Ghost in the Cell,"In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",,"Title: Ghost in the Cell
+
+Overview: In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.
+
+Genres: Horror, Comedy, Thriller
+
+Collection: Ghost in the Cell Collection
+
+Production Companies: Come and See Pictures, Rapi Films, Barunson E&A, Legacy Pictures
+
+Production Countries: Indonesia, South Korea
+
+Spoken Languages: Indonesian",tt9000310,2026-04-16,2026,id,['ID'],106,Released,"['Horror', 'Comedy', 'Thriller']",['Indonesian'],"['Indonesia', 'South Korea']",0,0,70.9935,7.155,74,1679602.0,Ghost in the Cell Collection,"[{'id': 198917, 'name': 'Come and See Pictures', 'origin_country': 'ID'}, {'id': 7872, 'name': 'Rapi Films', 'origin_country': 'ID'}, {'id': 4399, 'name': 'Barunson E&A', 'origin_country': 'KR'}, {'id': 46840, 'name': 'Legacy Pictures', 'origin_country': 'ID'}]",,/zxcMdx0w5Zmg8yZuuiS7CJ8vOea.jpg,/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg,1393326.json,456,64,False,False
+1405742,Portal to Hell,Portal to Hell,"After a debt-collector finds a portal to hell in a washing machine at his local laundromat, he’s propositioned into feeding it sinners to save his neighbor’s soul, maybe even at the expense of his own.",,"Title: Portal to Hell
+
+Overview: After a debt-collector finds a portal to hell in a washing machine at his local laundromat, he’s propositioned into feeding it sinners to save his neighbor’s soul, maybe even at the expense of his own.
+
+Genres: Comedy, Horror
+
+Production Companies: Ford Films, Little Shadows, Hello Moon, Raven Banner Entertainment
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt29543015,2025-02-22,2025,en,['US'],93,Released,"['Comedy', 'Horror']",['English'],['United States of America'],0,0,71.7124,5.5,13,,,"[{'id': 102060, 'name': 'Ford Films', 'origin_country': 'US'}, {'id': 254333, 'name': 'Little Shadows', 'origin_country': 'US'}, {'id': 254334, 'name': 'Hello Moon', 'origin_country': 'US'}, {'id': 25884, 'name': 'Raven Banner Entertainment', 'origin_country': 'CA'}]",,/xuXCPJZjmP2FuGG3U16sI1TYEdR.jpg,/eTuPNfCR3hSUnDKm2zBATP4lJym.jpg,1405742.json,423,63,False,True
+1408162,Vishwanath & Sons,விஸ்வநாத் & சன்ஸ்,A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.,,"Title: Vishwanath & Sons
+
+Original Title: விஸ்வநாத் & சன்ஸ்
+
+Overview: A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.
+
+Genres: Drama, Romance, Comedy
+
+Production Companies: Sithara Entertainments, Srikara Studios, Fortune Four Cinemas
+
+Production Countries: India
+
+Spoken Languages: Tamil, Telugu",tt35836025,2026-08-14,2026,ta,['IN'],161,Released,"['Drama', 'Romance', 'Comedy']","['Tamil', 'Telugu']",['India'],0,0,71.0974,7.3,28,,,"[{'id': 107352, 'name': 'Sithara Entertainments', 'origin_country': 'IN'}, {'id': 172461, 'name': 'Srikara Studios', 'origin_country': 'IN'}, {'id': 166697, 'name': 'Fortune Four Cinemas', 'origin_country': 'IN'}]",,/7SfkdlOuifMn8Q7OHh9KQa3xwKr.jpg,/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg,1408162.json,390,53,False,True
+1419406,The Shadow's Edge,捕风追影,Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.,He's training a new generation of law enforcers for a dangerous mission to save the world from ruthless criminals.,"Title: The Shadow's Edge
+
+Original Title: 捕风追影
+
+Tagline: He's training a new generation of law enforcers for a dangerous mission to save the world from ruthless criminals.
+
+Overview: Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.
+
+Genres: Action, Crime, Drama, Thriller
+
+Production Companies: iQIYI Pictures （重复 同 iQiyi Motion Pictures）, Tao Piao Piao 淘票票, Hairun Pictures Company, Dong Fang Chen Xiang
+
+Production Countries: China, Hong Kong
+
+Spoken Languages: Mandarin",tt34610311,2025-08-16,2025,zh,"['CN', 'HK']",142,Released,"['Action', 'Crime', 'Drama', 'Thriller']",['Mandarin'],"['China', 'Hong Kong']",0,174400000,73.0803,8.29,1459,,,"[{'id': 122699, 'name': 'iQIYI Pictures （重复 同 iQiyi Motion Pictures）', 'origin_country': 'CN'}, {'id': 197030, 'name': 'Tao Piao Piao 淘票票', 'origin_country': 'CN'}, {'id': 25657, 'name': 'Hairun Pictures Company', 'origin_country': 'CN'}, {'id': 250765, 'name': 'Dong Fang Chen Xiang', 'origin_country': 'CN'}]",,/cHKo3m8N1fwvEy2ZEr0xGmmMODV.jpg,/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg,1419406.json,553,81,False,False
+1423191,Resident Evil,Resident Evil,"Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",A new era of evil.,"Title: Resident Evil
+
+Tagline: A new era of evil.
+
+Overview: Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.
+
+Genres: Horror, Science Fiction, Adventure
+
+Production Companies: Constantin Film, Subconscious, Vertigo Entertainment, Davis Films, Columbia Pictures, PlayStation Productions, TriStar Pictures
+
+Production Countries: United States of America, Germany, France
+
+Spoken Languages: English",tt35538033,2026-09-16,2026,en,['US'],95,Released,"['Horror', 'Science Fiction', 'Adventure']",['English'],"['United States of America', 'Germany', 'France']",75000000,123281812,513.2853,7.289,438,,,"[{'id': 47, 'name': 'Constantin Film', 'origin_country': 'DE'}, {'id': 240675, 'name': 'Subconscious', 'origin_country': 'US'}, {'id': 829, 'name': 'Vertigo Entertainment', 'origin_country': 'US'}, {'id': 342, 'name': 'Davis Films', 'origin_country': 'FR'}, {'id': 5, 'name': 'Columbia Pictures', 'origin_country': 'US'}, {'id': 125281, 'name': 'PlayStation Productions', 'origin_country': 'US'}, {'id': 559, 'name': 'TriStar Pictures', 'origin_country': 'US'}]",https://residentevil.movie,/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg,/3icyRAqgakNcQn6aDVz9libFmBA.jpg,1423191.json,481,60,False,False
+1465063,Forgotten Island,Forgotten Island,"While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",No memory left behind.,"Title: Forgotten Island
+
+Tagline: No memory left behind.
+
+Overview: While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.
+
+Genres: Animation, Adventure, Fantasy, Comedy, Family
+
+Production Companies: DreamWorks Animation
+
+Production Countries: United States of America
+
+Spoken Languages: English, Tagalog",tt36583977,2026-09-10,2026,en,['US'],109,Released,"['Animation', 'Adventure', 'Fantasy', 'Comedy', 'Family']","['English', 'Tagalog']",['United States of America'],0,0,59.001,7.6,15,,,"[{'id': 521, 'name': 'DreamWorks Animation', 'origin_country': 'US'}]",https://www.forgottenislandmovie.com,/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg,/eYvHMdFl1Qp0o810lCsRtjfs2sY.jpg,1465063.json,634,93,False,False
+1469930,Project Sacrifice,Tumbal Proyek,"While investigating their father’s death inside a major bridge construction company, Yuda and his family attempt to prove that the frequent, deadly workplace accidents are actually human sacrifices.",Kisah nyata perbatasan Surabaya dan Madura.,"Title: Project Sacrifice
+
+Original Title: Tumbal Proyek
+
+Tagline: Kisah nyata perbatasan Surabaya dan Madura.
+
+Overview: While investigating their father’s death inside a major bridge construction company, Yuda and his family attempt to prove that the frequent, deadly workplace accidents are actually human sacrifices.
+
+Genres: Horror, Thriller
+
+Production Companies: Dee Company
+
+Production Countries: Indonesia
+
+Spoken Languages: Indonesian",tt38497679,2026-05-13,2026,id,['ID'],106,Released,"['Horror', 'Thriller']",['Indonesian'],['Indonesia'],0,0,92.5789,3.9,6,,,"[{'id': 99376, 'name': 'Dee Company', 'origin_country': 'ID'}]",,/321rzg1B6RRhcuRgsFHjQ7Xl3XX.jpg,/k3Nc57fdRkzleHjodta45mGJV2C.jpg,1469930.json,443,56,False,True
+1477712,Ice Cream Man,Ice Cream Man,An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.,We all scream.,"Title: Ice Cream Man
+
+Tagline: We all scream.
+
+Overview: An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.
+
+Genres: Horror, Comedy, Thriller
+
+Production Companies: The Horror Section, Media Capital Technologies, Head Gear Films, Mass Appeal, Metrol Technology, dentsu, Sixth Dimension
+
+Production Countries: United States of America, United Kingdom, France, Japan
+
+Spoken Languages: English",tt36893729,2026-08-03,2026,en,"['US', 'GB']",86,Released,"['Horror', 'Comedy', 'Thriller']",['English'],"['United States of America', 'United Kingdom', 'France', 'Japan']",5500000,7788193,104.9721,4.56,75,,,"[{'id': 258079, 'name': 'The Horror Section', 'origin_country': 'US'}, {'id': 221429, 'name': 'Media Capital Technologies', 'origin_country': 'US'}, {'id': 5056, 'name': 'Head Gear Films', 'origin_country': 'GB'}, {'id': 62657, 'name': 'Mass Appeal', 'origin_country': 'US'}, {'id': 25954, 'name': 'Metrol Technology', 'origin_country': 'GB'}, {'id': 1778, 'name': 'dentsu', 'origin_country': 'JP'}, {'id': 252730, 'name': 'Sixth Dimension', 'origin_country': 'FR'}]",https://www.iconicreleasing.com/events/ice-cream-man/,/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg,/hjF1rzTDR7YvnJUcH2SfP48w492.jpg,1477712.json,459,63,False,False
+1482547,Zip Wire,Zip Wire,"When her ground-breaking pharmaceutical discovery is stolen and partner murdered, researcher Amy must face her fear of heights to escape nefarious attackers, with the only path to salvation being a treacherous aerial runway. To outsmart the mysterious hostiles, she has to summon every ounce of courage to protect the world-changing scientific discovery — and herself — before it's too late.",Hold on tight.,"Title: Zip Wire
+
+Tagline: Hold on tight.
+
+Overview: When her ground-breaking pharmaceutical discovery is stolen and partner murdered, researcher Amy must face her fear of heights to escape nefarious attackers, with the only path to salvation being a treacherous aerial runway. To outsmart the mysterious hostiles, she has to summon every ounce of courage to protect the world-changing scientific discovery — and herself — before it's too late.
+
+Genres: Action, Thriller
+
+Production Companies: Scanner-Rhodes Productions, Untitled Entertainment, Reinvent Yellow
+
+Production Countries: Denmark, United States of America, United Kingdom
+
+Spoken Languages: English",tt36980377,2026-08-31,2026,en,"['DK', 'US']",95,Released,"['Action', 'Thriller']",['English'],"['Denmark', 'United States of America', 'United Kingdom']",0,0,173.7655,7.6,14,,,"[{'id': 3349, 'name': 'Scanner-Rhodes Productions', 'origin_country': 'GB'}, {'id': 46225, 'name': 'Untitled Entertainment', 'origin_country': 'US'}, {'id': 290125, 'name': 'Reinvent Yellow', 'origin_country': 'DK'}]",,/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg,/sbkkAtymJaH5UzExiK974uPzCY4.jpg,1482547.json,660,91,False,True
+150540,Inside Out,Inside Out,"When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",Meet the little voices inside your head.,"Title: Inside Out
+
+Tagline: Meet the little voices inside your head.
+
+Overview: When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.
+
+Genres: Animation, Family, Adventure, Drama, Comedy
+
+Collection: Inside Out Collection
+
+Production Companies: Pixar
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt2096673,2015-06-17,2015,en,['US'],95,Released,"['Animation', 'Family', 'Adventure', 'Drama', 'Comedy']",['English'],['United States of America'],175000000,857611174,53.3345,7.906,23919,1022790.0,Inside Out Collection,"[{'id': 3, 'name': 'Pixar', 'origin_country': 'US'}]",http://movies.disney.com/inside-out,/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg,/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg,150540.json,522,77,False,False
+1506560,Clash of the Thundermans,Clash of the Thundermans,"When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abilities. Faced with the prospect of sending Chloe away for years, the Thundermans split apart, with Phoebe, Barb and Billy taking her into hiding. Max, Hank, and Nora track their rogue family members, until the two factions face off against each other in a full-on battle for the Thundermans’ future.",This changes everything.,"Title: Clash of the Thundermans
+
+Tagline: This changes everything.
+
+Overview: When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abilities. Faced with the prospect of sending Chloe away for years, the Thundermans split apart, with Phoebe, Barb and Billy taking her into hiding. Max, Hank, and Nora track their rogue family members, until the two factions face off against each other in a full-on battle for the Thundermans’ future.
+
+Genres: TV Movie, Family, Action
+
+Collection: The Thundermans Collection
+
+Production Companies: Paramount Television Studios
+
+Production Countries: Canada, United States of America
+
+Spoken Languages: English",tt37752275,2026-09-03,2026,en,['US'],72,Released,"['TV Movie', 'Family', 'Action']",['English'],"['Canada', 'United States of America']",0,0,65.261,6.7,60,1762706.0,The Thundermans Collection,"[{'id': 270146, 'name': 'Paramount Television Studios', 'origin_country': 'US'}]",,/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg,/hDwl0YMxwGhNe7u8wgHHk2Hyw3W.jpg,1506560.json,734,108,False,True
+1514682,Above & Below,Above & Below,A group of friends set off for an unforgettable vacation. What begins as an adventure of partying and diving quickly turns into a nightmare when they are attacked by criminals in open waters.,,"Title: Above & Below
+
+Overview: A group of friends set off for an unforgettable vacation. What begins as an adventure of partying and diving quickly turns into a nightmare when they are attacked by criminals in open waters.
+
+Genres: Thriller, Crime
+
+Production Companies: Capstone Pictures, AF Films, Match Point
+
+Production Countries: United States of America, Spain
+
+Spoken Languages: English",tt37603783,2026-07-29,2026,en,"['US', 'ES']",95,Released,"['Thriller', 'Crime']",['English'],"['United States of America', 'Spain']",0,328837,53.6776,6.051,39,,,"[{'id': 154063, 'name': 'Capstone Pictures', 'origin_country': 'US'}, {'id': 210197, 'name': 'AF Films', 'origin_country': 'ES'}, {'id': 304095, 'name': 'Match Point', 'origin_country': ''}]",,/7bOuu1SRALGwsG2fLCTvRkCmQBj.jpg,/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg,1514682.json,394,59,False,False
+1516698,The Last Sunrise,The Last Sunrise,"Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",One summer to feel everything.,"Title: The Last Sunrise
+
+Tagline: One summer to feel everything.
+
+Overview: Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.
+
+Genres: Romance, Drama
+
+Production Companies: Amazon MGM Studios, Ethea Entertainment, Luber-Roklin Entertainment, Pitt Street Productions, Aquarius Films, The Last Sunrise
+
+Production Countries: United States of America, Spain
+
+Spoken Languages: English",tt37654096,2026-08-26,2026,en,['US'],107,Released,"['Romance', 'Drama']",['English'],"['United States of America', 'Spain']",0,0,83.5683,6.817,191,,,"[{'id': 210099, 'name': 'Amazon MGM Studios', 'origin_country': 'US'}, {'id': 158529, 'name': 'Ethea Entertainment', 'origin_country': 'US'}, {'id': 220517, 'name': 'Luber-Roklin Entertainment', 'origin_country': 'US'}, {'id': 202263, 'name': 'Pitt Street Productions', 'origin_country': 'US'}, {'id': 308708, 'name': 'Aquarius Films', 'origin_country': 'ES'}, {'id': 308732, 'name': 'The Last Sunrise', 'origin_country': 'US'}]",https://www.amazon.com/dp/B0H8Q1DKGJ,/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg,/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg,1516698.json,649,94,False,False
+155,The Dark Knight,The Dark Knight,"Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",Some men just want to watch the world burn.,"Title: The Dark Knight
+
+Tagline: Some men just want to watch the world burn.
+
+Overview: Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.
+
+Genres: Action, Thriller, Crime
+
+Collection: The Dark Knight Collection
+
+Production Companies: Warner Bros. Pictures, Legendary Pictures, Syncopy, DC
+
+Production Countries: United Kingdom, United States of America
+
+Spoken Languages: English, Mandarin",tt0468569,2008-07-16,2008,en,['US'],152,Released,"['Action', 'Thriller', 'Crime']","['English', 'Mandarin']","['United Kingdom', 'United States of America']",185000000,1004558444,61.2883,8.535,36788,263.0,The Dark Knight Collection,"[{'id': 174, 'name': 'Warner Bros. Pictures', 'origin_country': 'US'}, {'id': 923, 'name': 'Legendary Pictures', 'origin_country': 'US'}, {'id': 9996, 'name': 'Syncopy', 'origin_country': 'GB'}, {'id': 429, 'name': 'DC', 'origin_country': 'US'}]",https://www.warnerbros.com/movies/dark-knight/,/qJ2tW6WMUDux911r6m7haRef0WH.jpg,/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg,155.json,736,112,False,False
+1560520,Batman: Knightfall Part 1: Knightfall,Batman: Knightfall Part 1: Knightfall,"Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",,"Title: Batman: Knightfall Part 1: Knightfall
+
+Overview: Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!
+
+Genres: Animation, Action, Adventure, Drama
+
+Collection: Batman: Knightfall Collection
+
+Production Companies: Warner Bros. Animation, DC
+
+Production Countries: United States of America
+
+Spoken Languages: English, Spanish",tt32333324,2026-06-23,2026,en,['US'],79,Released,"['Animation', 'Action', 'Adventure', 'Drama']","['English', 'Spanish']",['United States of America'],0,0,70.0571,9.2,379,1560779.0,Batman: Knightfall Collection,"[{'id': 2785, 'name': 'Warner Bros. Animation', 'origin_country': 'US'}, {'id': 429, 'name': 'DC', 'origin_country': 'US'}]",https://www.warnerbros.com/movies/batman-knightfall-part-1-knightfall,/360qdtu2hLnqMu8SVHMywn420w1.jpg,/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg,1560520.json,545,80,False,False
+157336,Interstellar,Interstellar,The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.,Mankind was born on Earth. It was never meant to die here.,"Title: Interstellar
+
+Tagline: Mankind was born on Earth. It was never meant to die here.
+
+Overview: The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.
+
+Genres: Adventure, Drama, Science Fiction
+
+Production Companies: Legendary Pictures, Syncopy, Lynda Obst Productions
+
+Production Countries: United Kingdom, United States of America
+
+Spoken Languages: English",tt0816692,2014-11-05,2014,en,['US'],169,Released,"['Adventure', 'Drama', 'Science Fiction']",['English'],"['United Kingdom', 'United States of America']",165000000,746606706,70.2863,8.5,41247,,,"[{'id': 923, 'name': 'Legendary Pictures', 'origin_country': 'US'}, {'id': 9996, 'name': 'Syncopy', 'origin_country': 'GB'}, {'id': 13769, 'name': 'Lynda Obst Productions', 'origin_country': 'US'}]",http://www.interstellarmovie.net/,/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg,/8sNiAPPYU14PUepFNeSNGUTiHW.jpg,157336.json,507,73,False,False
+1594914,Lucky Strike,Lucky Strike,"A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",One man's fight to survive.,"Title: Lucky Strike
+
+Tagline: One man's fight to survive.
+
+Overview: A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.
+
+Genres: Action, War
+
+Production Companies: Perfection Hunter Productions, Millennium Media, BondIt Media Capital
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt19035928,2026-06-26,2026,en,['US'],102,Released,"['Action', 'War']",['English'],['United States of America'],10000000,803112,53.7376,6.844,48,,,"[{'id': 137004, 'name': 'Perfection Hunter Productions', 'origin_country': 'US'}, {'id': 1020, 'name': 'Millennium Media', 'origin_country': 'US'}, {'id': 121204, 'name': 'BondIt Media Capital', 'origin_country': 'US'}]",https://empire-ent.africa/movie/lucky-strike/,/7AEBdyGYXumXWmMFeynE8227KeZ.jpg,/1ebY06Gc1eUZcCoO7IoD4tWCFxm.jpg,1594914.json,480,71,False,False
+1599993,Animals,Animales,"Four couples sail the thin line between desire and search for authenticity, in a world where truth is as fragile as their relationships.",Hay puertas que no se deben abrir.,"Title: Animals
+
+Original Title: Animales
+
+Tagline: Hay puertas que no se deben abrir.
+
+Overview: Four couples sail the thin line between desire and search for authenticity, in a world where truth is as fragile as their relationships.
+
+Genres: Comedy, Thriller
+
+Production Companies: Star Distribution
+
+Production Countries: Dominican Republic
+
+Spoken Languages: Spanish",tt34224947,2026-02-05,2026,es,['DO'],0,Released,"['Comedy', 'Thriller']",['Spanish'],['Dominican Republic'],0,0,83.2026,6.28,50,,,"[{'id': 143363, 'name': 'Star Distribution', 'origin_country': ''}]",,/9fbZdiOI9fRinl44mNm3CYgEtYR.jpg,/3jgATRIFenOrgNKEC9bFv5QqKGf.jpg,1599993.json,369,51,False,False
+1607127,One Last Shot,One Last Shot,"Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",One last traitor. One last mission. One last fight.,"Title: One Last Shot
+
+Tagline: One last traitor. One last mission. One last fight.
+
+Overview: Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.
+
+Genres: Action, Thriller
+
+Collection: One Shot Collection
+
+Production Companies: Signature Films
+
+Production Countries: United Kingdom
+
+Spoken Languages: English",tt37971717,2026-09-22,2026,en,['US'],98,Released,"['Action', 'Thriller']",['English'],['United Kingdom'],0,0,143.5208,7.709,43,1214316.0,One Shot Collection,"[{'id': 122034, 'name': 'Signature Films', 'origin_country': 'GB'}]",https://signature-entertainment.co.uk/production/titles/one-last-shot,/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg,/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg,1607127.json,399,56,False,False
+1621552,Facing El Chapo,La captura,Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.,,"Title: Facing El Chapo
+
+Original Title: La captura
+
+Overview: Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.
+
+Genres: Crime, Action, Thriller
+
+Production Companies: Draco Films
+
+Production Countries: Mexico
+
+Spoken Languages: Portuguese, Spanish",tt39390497,2026-08-21,2026,es,['MX'],91,Released,"['Crime', 'Action', 'Thriller']","['Portuguese', 'Spanish']",['Mexico'],0,0,82.2798,8.799,797,,,"[{'id': 84651, 'name': 'Draco Films', 'origin_country': 'MX'}]",https://www.netflix.com/title/82048151,/alpf5v4UqSFawPmG9RX03Or4BDk.jpg,/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg,1621552.json,302,41,False,False
+1641629,You+Me - Against the World,Toi+Moi - Seuls contre tous,"Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love — despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.",He runs from everything. Except her.,"Title: You+Me - Against the World
+
+Original Title: Toi+Moi - Seuls contre tous
+
+Tagline: He runs from everything. Except her.
+
+Overview: Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love — despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.
+
+Genres: Romance, Drama
+
+Production Companies: Amazon Studios France, Originals by Trésor, Trésor Films, Amazon MGM Studios
+
+Production Countries: France, United States of America
+
+Spoken Languages: French",tt43617372,2026-09-18,2026,fr,['FR'],94,Released,"['Romance', 'Drama']",['French'],"['France', 'United States of America']",0,0,100.5424,5.726,42,,,"[{'id': 208281, 'name': 'Amazon Studios France', 'origin_country': 'FR'}, {'id': 303782, 'name': 'Originals by Trésor', 'origin_country': ''}, {'id': 120768, 'name': 'Trésor Films', 'origin_country': 'FR'}, {'id': 210099, 'name': 'Amazon MGM Studios', 'origin_country': 'US'}]",https://www.amazon.com/gp/video/detail/B0HHQMLC42,/bAbBNVplg7h79sm94OyHeKk8Phz.jpg,/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg,1641629.json,816,128,False,True
+1685882,Modha Rathri,மொத ராத்திரி,"Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",,"Title: Modha Rathri
+
+Original Title: மொத ராத்திரி
+
+Overview: Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.
+
+Genres: Romance, Comedy
+
+Production Companies: Mythri Movie Makers
+
+Production Countries: India
+
+Spoken Languages: Tamil",tt42262473,2026-08-21,2026,ta,['IN'],141,Released,"['Romance', 'Comedy']",['Tamil'],['India'],0,0,67.2515,7.6,7,,,"[{'id': 69125, 'name': 'Mythri Movie Makers', 'origin_country': 'IN'}]",,/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg,/8Lq3f68f4WZpQrihDooNink8xJ7.jpg,1685882.json,359,50,False,False
+1751701,After Impact,After Impact,"After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family’s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he's not as alone as he believed.",,"Title: After Impact
+
+Overview: After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family’s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he's not as alone as he believed.
+
+Genres: Science Fiction, Drama, Thriller
+
+Production Companies: PWA Media Ltd
+
+Production Countries: New Zealand",tt36809539,2026-09-15,2026,en,['US'],95,Released,"['Science Fiction', 'Drama', 'Thriller']",[],['New Zealand'],100000,0,146.4213,5.214,7,,,"[{'id': 307908, 'name': 'PWA Media Ltd', 'origin_country': ''}]",https://michielrensen.com/catalogue/after-impact,/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg,/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg,1751701.json,717,109,False,True
+20352,Despicable Me,Despicable Me,"Determined to prove he's the world's greatest supervillain, Gru hatches an audacious plan to steal the Moon. To pull it off, he adopts three orphaned girls—Margo, Edith, and Agnes—intending to use them as pawns in his scheme. But the unexpected bond they form forces him to question the criminal life he's always known.",Superbad. Superdad.,"Title: Despicable Me
+
+Tagline: Superbad. Superdad.
+
+Overview: Determined to prove he's the world's greatest supervillain, Gru hatches an audacious plan to steal the Moon. To pull it off, he adopts three orphaned girls—Margo, Edith, and Agnes—intending to use them as pawns in his scheme. But the unexpected bond they form forces him to question the criminal life he's always known.
+
+Genres: Animation, Comedy, Crime, Science Fiction, Family
+
+Collection: Despicable Me Collection
+
+Production Companies: Illumination, Universal Pictures
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt1323594,2010-07-08,2010,en,['US'],95,Released,"['Animation', 'Comedy', 'Crime', 'Science Fiction', 'Family']",['English'],['United States of America'],69000000,543284256,50.68,7.262,16404,86066.0,Despicable Me Collection,"[{'id': 6704, 'name': 'Illumination', 'origin_country': 'US'}, {'id': 33, 'name': 'Universal Pictures', 'origin_country': 'US'}]",http://www.despicable.me/,/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg,/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg,20352.json,609,85,False,True
+205596,The Imitation Game,The Imitation Game,"Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",The true enigma was the man who cracked the code.,"Title: The Imitation Game
+
+Tagline: The true enigma was the man who cracked the code.
+
+Overview: Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.
+
+Genres: History, Drama, Thriller, War
+
+Production Companies: Bristol Automotive, Black Bear Pictures, FilmNation Entertainment
+
+Production Countries: United States of America, United Kingdom
+
+Spoken Languages: English",tt2084970,2014-11-14,2014,en,['US'],113,Released,"['History', 'Drama', 'Thriller', 'War']",['English'],"['United States of America', 'United Kingdom']",14000000,233555708,53.0533,7.979,18442,,,"[{'id': 38145, 'name': 'Bristol Automotive', 'origin_country': 'US'}, {'id': 22146, 'name': 'Black Bear Pictures', 'origin_country': 'US'}, {'id': 7493, 'name': 'FilmNation Entertainment', 'origin_country': 'US'}]",,/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg,/8FCHJ21JBQOgATY2WI8vwYAiXg8.jpg,205596.json,603,87,False,False
+238,The Godfather,The Godfather,"Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",An offer you can't refuse.,"Title: The Godfather
+
+Tagline: An offer you can't refuse.
+
+Overview: Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.
+
+Genres: Drama, Crime
+
+Collection: The Godfather Collection
+
+Production Companies: Paramount Pictures, Alfran Productions, Albert S. Ruddy Productions
+
+Production Countries: United States of America
+
+Spoken Languages: English, Italian, Latin",tt0068646,1972-03-14,1972,en,['US'],175,Released,"['Drama', 'Crime']","['English', 'Italian', 'Latin']",['United States of America'],6000000,245066411,62.1179,8.687,23626,230.0,The Godfather Collection,"[{'id': 4, 'name': 'Paramount Pictures', 'origin_country': 'US'}, {'id': 10211, 'name': 'Alfran Productions', 'origin_country': 'US'}, {'id': 16311, 'name': 'Albert S. Ruddy Productions', 'origin_country': 'US'}]",http://www.thegodfather.com/,/3bhkrj58Vtu7enYsRolD1fZdja1.jpg,/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg,238.json,618,86,False,False
+24428,The Avengers,The Avengers,"When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",Some assembly required.,"Title: The Avengers
+
+Tagline: Some assembly required.
+
+Overview: When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!
+
+Genres: Science Fiction, Action, Adventure
+
+Collection: The Avengers Collection
+
+Production Companies: Marvel Studios
+
+Production Countries: United States of America
+
+Spoken Languages: English, Hindi, Russian",tt0848228,2012-04-25,2012,en,['US'],143,Released,"['Science Fiction', 'Action', 'Adventure']","['English', 'Hindi', 'Russian']",['United States of America'],220000000,1518815515,66.1077,8.077,39821,86311.0,The Avengers Collection,"[{'id': 420, 'name': 'Marvel Studios', 'origin_country': 'US'}]",https://www.marvel.com/movies/the-avengers,/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg,/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg,24428.json,572,79,False,False
+26827,Who's That Girl,Who's That Girl,An uptight New York City tax lawyer gets his life turned upside down one day when he's asked to escort a feisty free-spirited ex-convict who asks him to help prove her innocence of her crime.,A funny thing happened on the way to the bus station.,"Title: Who's That Girl
+
+Tagline: A funny thing happened on the way to the bus station.
+
+Overview: An uptight New York City tax lawyer gets his life turned upside down one day when he's asked to escort a feisty free-spirited ex-convict who asks him to help prove her innocence of her crime.
+
+Genres: Comedy, Romance
+
+Production Companies: Warner Bros. Pictures, The Guber-Peters Company
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt0094321,1987-08-07,1987,en,['US'],93,Released,"['Comedy', 'Romance']",['English'],['United States of America'],18500000,7305209,48.9458,5.531,262,,,"[{'id': 174, 'name': 'Warner Bros. Pictures', 'origin_country': 'US'}, {'id': 276, 'name': 'The Guber-Peters Company', 'origin_country': 'US'}]",,/2Yu6ciKKgSWIZAzUg4IrrifO23z.jpg,/nPLS4lsCl34nIIMb1MBYtHsd5hY.jpg,26827.json,460,72,False,False
+27205,Inception,Inception,"Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: ""inception"", the implantation of another person's idea into a target's subconscious.",Your mind is the scene of the crime.,"Title: Inception
+
+Tagline: Your mind is the scene of the crime.
+
+Overview: Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: ""inception"", the implantation of another person's idea into a target's subconscious.
+
+Genres: Action, Science Fiction, Adventure
+
+Production Companies: Warner Bros. Pictures
+
+Production Countries: United Kingdom, United States of America
+
+Spoken Languages: English, French, Japanese, Swahili",tt1375666,2010-07-15,2010,en,"['US', 'GB']",148,Released,"['Action', 'Science Fiction', 'Adventure']","['English', 'French', 'Japanese', 'Swahili']","['United Kingdom', 'United States of America']",160000000,839030630,56.942,8.374,40259,,,"[{'id': 174, 'name': 'Warner Bros. Pictures', 'origin_country': 'US'}]",https://www.warnerbros.com/movies/inception,/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg,/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg,27205.json,562,80,False,False
+278,The Shawshank Redemption,The Shawshank Redemption,"Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",Fear can hold you prisoner. Hope can set you free.,"Title: The Shawshank Redemption
+
+Tagline: Fear can hold you prisoner. Hope can set you free.
+
+Overview: Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.
+
+Genres: Drama, Crime
+
+Production Companies: Castle Rock Entertainment
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt0111161,1994-09-23,1994,en,['US'],142,Released,"['Drama', 'Crime']",['English'],['United States of America'],25000000,28341469,67.855,8.7,31403,,,"[{'id': 97, 'name': 'Castle Rock Entertainment', 'origin_country': 'US'}]",,/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg,/pNjh59JSxChQktamG3LMp9ZoQzp.jpg,278.json,642,102,False,False
+299534,Avengers: Endgame,Avengers: Endgame,"After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",Avenge the fallen.,"Title: Avengers: Endgame
+
+Tagline: Avenge the fallen.
+
+Overview: After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.
+
+Genres: Adventure, Science Fiction, Action
+
+Collection: The Avengers Collection
+
+Production Companies: Marvel Studios
+
+Production Countries: United States of America
+
+Spoken Languages: English, Japanese, Xhosa",tt4154796,2019-04-24,2019,en,['US'],181,Released,"['Adventure', 'Science Fiction', 'Action']","['English', 'Japanese', 'Xhosa']",['United States of America'],356000000,2799439100,98.7212,8.244,28765,86311.0,The Avengers Collection,"[{'id': 420, 'name': 'Marvel Studios', 'origin_country': 'US'}]",https://www.marvel.com/movies/avengers-endgame,/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg,/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg,299534.json,603,90,False,False
+299536,Avengers: Infinity War,Avengers: Infinity War,"As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",An entire universe. Once and for all.,"Title: Avengers: Infinity War
+
+Tagline: An entire universe. Once and for all.
+
+Overview: As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.
+
+Genres: Adventure, Action, Science Fiction
+
+Collection: The Avengers Collection
+
+Production Companies: Marvel Studios
+
+Production Countries: United States of America
+
+Spoken Languages: English, Xhosa",tt4154756,2018-04-25,2018,en,['US'],149,Released,"['Adventure', 'Action', 'Science Fiction']","['English', 'Xhosa']",['United States of America'],300000000,2052415039,86.8185,8.243,32973,86311.0,The Avengers Collection,"[{'id': 420, 'name': 'Marvel Studios', 'origin_country': 'US'}]",https://www.marvel.com/movies/avengers-infinity-war,/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg,/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg,299536.json,780,123,False,False
+335984,Blade Runner 2049,Blade Runner 2049,"Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",The key to the future is finally unearthed.,"Title: Blade Runner 2049
+
+Tagline: The key to the future is finally unearthed.
+
+Overview: Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.
+
+Genres: Science Fiction, Drama
+
+Collection: Blade Runner Collection
+
+Production Companies: Alcon Entertainment, Columbia Pictures, Scott Free Productions, Bud Yorkin Productions, Torridon Films, 16:14 Entertainment
+
+Production Countries: Canada, United Kingdom, United States of America
+
+Spoken Languages: English, Finnish, Hungarian, Japanese, Russian, Somali, Spanish",tt1856101,2017-10-04,2017,en,['US'],164,Released,"['Science Fiction', 'Drama']","['English', 'Finnish', 'Hungarian', 'Japanese', 'Russian', 'Somali', 'Spanish']","['Canada', 'United Kingdom', 'United States of America']",150000000,259239658,53.2029,7.607,15715,422837.0,Blade Runner Collection,"[{'id': 1088, 'name': 'Alcon Entertainment', 'origin_country': 'US'}, {'id': 5, 'name': 'Columbia Pictures', 'origin_country': 'US'}, {'id': 1645, 'name': 'Scott Free Productions', 'origin_country': 'GB'}, {'id': 57043, 'name': 'Bud Yorkin Productions', 'origin_country': 'US'}, {'id': 79529, 'name': 'Torridon Films', 'origin_country': 'US'}, {'id': 101829, 'name': '16:14 Entertainment', 'origin_country': 'US'}]",http://bladerunnermovie.com/,/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg,/gNdLJU9TxrpGx4dkZidjys3fyy0.jpg,335984.json,762,111,False,False
+42573,Dr. Jekyll Likes Them Hot,Dottor Jekyll e gentile signora,"A lusty young woman decides to use her sexual powers to ""tame"" the evil and murderous Dr. Jekyll.",,"Title: Dr. Jekyll Likes Them Hot
+
+Original Title: Dottor Jekyll e gentile signora
+
+Overview: A lusty young woman decides to use her sexual powers to ""tame"" the evil and murderous Dr. Jekyll.
+
+Genres: Horror, Comedy
+
+Production Companies: Medusa Distribuzione, Dania Film
+
+Production Countries: Italy
+
+Spoken Languages: Italian",tt0079068,1979-08-31,1979,it,['IT'],107,Released,"['Horror', 'Comedy']",['Italian'],['Italy'],0,0,33.0166,5.0,30,,,"[{'id': 15868, 'name': 'Medusa Distribuzione', 'origin_country': 'IT'}, {'id': 1701, 'name': 'Dania Film', 'origin_country': 'IT'}]",,/zneBy6Rpjq6cTnoQcoKbhs3Q0sL.jpg,/eM17nYEf4uIgVPjNrTh7qf6ApoZ.jpg,42573.json,326,47,False,False
+454639,Masters of the Universe,Masters of the Universe,"After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.","Legends aren't born, they're forged.","Title: Masters of the Universe
+
+Tagline: Legends aren't born, they're forged.
+
+Overview: After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.
+
+Genres: Action, Fantasy, Science Fiction
+
+Production Companies: Escape Artists, Mattel Studios, Amazon MGM Studios
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt0427340,2026-06-03,2026,en,['US'],141,Released,"['Action', 'Fantasy', 'Science Fiction']",['English'],['United States of America'],200000000,113763426,51.8772,7.12,2161,,,"[{'id': 1423, 'name': 'Escape Artists', 'origin_country': 'US'}, {'id': 168848, 'name': 'Mattel Studios', 'origin_country': 'US'}, {'id': 210099, 'name': 'Amazon MGM Studios', 'origin_country': 'US'}]",https://www.amazon.com/salp/motu?hhf=,/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg,/5MUMB3aPEPEQPCIAaygXFUTWE9Y.jpg,454639.json,635,96,False,True
+460458,Resident Evil: Welcome to Raccoon City,Resident Evil: Welcome to Raccoon City,"Once the booming home of pharmaceutical giant Umbrella Corporation, Raccoon City is now a dying Midwestern town. The company’s exodus left the city a wasteland…with great evil brewing below the surface. When that evil is unleashed, the townspeople are forever…changed…and a small group of survivors must work together to uncover the truth behind Umbrella and make it through the night.",Witness the beginning of evil.,"Title: Resident Evil: Welcome to Raccoon City
+
+Tagline: Witness the beginning of evil.
+
+Overview: Once the booming home of pharmaceutical giant Umbrella Corporation, Raccoon City is now a dying Midwestern town. The company’s exodus left the city a wasteland…with great evil brewing below the surface. When that evil is unleashed, the townspeople are forever…changed…and a small group of survivors must work together to uncover the truth behind Umbrella and make it through the night.
+
+Genres: Action, Horror, Science Fiction
+
+Production Companies: Constantin Film, Screen Gems, Davis Raccoon Films
+
+Production Countries: Germany, United States of America, Canada
+
+Spoken Languages: English",tt6920084,2021-11-24,2021,en,"['CA', 'US']",107,Released,"['Action', 'Horror', 'Science Fiction']",['English'],"['Germany', 'United States of America', 'Canada']",25000000,41914915,99.0094,5.933,2803,,,"[{'id': 47, 'name': 'Constantin Film', 'origin_country': 'DE'}, {'id': 3287, 'name': 'Screen Gems', 'origin_country': 'US'}, {'id': 266136, 'name': 'Davis Raccoon Films', 'origin_country': 'CA'}]",https://www.sonypictures.com/movies/residentevilwelcometoraccooncity,/bArhvjRHl535XMaSh9VjInF2mSZ.jpg,/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg,460458.json,689,99,False,True
+533535,Deadpool & Wolverine,Deadpool & Wolverine,"A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",Come together.,"Title: Deadpool & Wolverine
+
+Tagline: Come together.
+
+Overview: A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.
+
+Genres: Action, Comedy, Science Fiction
+
+Collection: Deadpool Collection
+
+Production Companies: Marvel Studios, Maximum Effort, 21 Laps Entertainment, 20th Century Studios, Kevin Feige Productions, TSG Entertainment
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt6263850,2024-07-24,2024,en,['US'],128,Released,"['Action', 'Comedy', 'Science Fiction']",['English'],['United States of America'],200000000,1338073645,57.281,7.589,9496,448150.0,Deadpool Collection,"[{'id': 420, 'name': 'Marvel Studios', 'origin_country': 'US'}, {'id': 104228, 'name': 'Maximum Effort', 'origin_country': 'US'}, {'id': 2575, 'name': '21 Laps Entertainment', 'origin_country': 'US'}, {'id': 127928, 'name': '20th Century Studios', 'origin_country': 'US'}, {'id': 176762, 'name': 'Kevin Feige Productions', 'origin_country': 'US'}, {'id': 22213, 'name': 'TSG Entertainment', 'origin_country': 'US'}]",https://www.marvel.com/movies/deadpool-and-wolverine,/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg,/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg,533535.json,604,81,False,False
+569094,Spider-Man: Across the Spider-Verse,Spider-Man: Across the Spider-Verse,"After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",It's how you wear the mask that matters.,"Title: Spider-Man: Across the Spider-Verse
+
+Tagline: It's how you wear the mask that matters.
+
+Overview: After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.
+
+Genres: Animation, Action, Adventure, Science Fiction
+
+Collection: Spider-Man: Spider-Verse Collection
+
+Production Companies: Columbia Pictures, Sony Pictures Animation, Lord Miller, Pascal Pictures, Arad Productions, Marvel Entertainment
+
+Production Countries: United States of America
+
+Spoken Languages: English, Hindi, Italian, Spanish",tt9362722,2023-05-31,2023,en,['US'],140,Released,"['Animation', 'Action', 'Adventure', 'Science Fiction']","['English', 'Hindi', 'Italian', 'Spanish']",['United States of America'],100000000,690897910,54.513,8.35,9290,573436.0,Spider-Man: Spider-Verse Collection,"[{'id': 5, 'name': 'Columbia Pictures', 'origin_country': 'US'}, {'id': 2251, 'name': 'Sony Pictures Animation', 'origin_country': 'US'}, {'id': 77973, 'name': 'Lord Miller', 'origin_country': 'US'}, {'id': 84041, 'name': 'Pascal Pictures', 'origin_country': 'US'}, {'id': 14439, 'name': 'Arad Productions', 'origin_country': 'US'}, {'id': 7505, 'name': 'Marvel Entertainment', 'origin_country': 'US'}]",https://www.sonypictures.com/movies/spidermanacrossthespiderverse,/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg,/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg,569094.json,857,117,False,True
+634649,Spider-Man: No Way Home,Spider-Man: No Way Home,"Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",Enter the Multiverse.,"Title: Spider-Man: No Way Home
+
+Tagline: Enter the Multiverse.
+
+Overview: Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.
+
+Genres: Action, Adventure, Science Fiction
+
+Collection: Spider-Man (MCU) Collection
+
+Production Companies: Marvel Studios, Pascal Pictures, Columbia Pictures
+
+Production Countries: United States of America
+
+Spoken Languages: English, Tagalog",tt10872600,2021-12-15,2021,en,['US'],148,Released,"['Action', 'Adventure', 'Science Fiction']","['English', 'Tagalog']",['United States of America'],200000000,1921426073,60.5141,7.947,23176,531241.0,Spider-Man (MCU) Collection,"[{'id': 420, 'name': 'Marvel Studios', 'origin_country': 'US'}, {'id': 84041, 'name': 'Pascal Pictures', 'origin_country': 'US'}, {'id': 5, 'name': 'Columbia Pictures', 'origin_country': 'US'}]",https://www.sonypictures.com/movies/spidermannowayhome,/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg,/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg,634649.json,575,82,False,False
+6435,Practical Magic,Practical Magic,"Sally and Gillian Owens, born into a magical family, have mostly avoided witchcraft themselves. But when Gillian's vicious boyfriend, Jimmy Angelov, dies unexpectedly, the Owens sisters give themselves a crash course in hard magic. With policeman Gary Hallet growing suspicious, the girls struggle to resurrect Angelov -- and unwittingly inject his corpse with an evil spirit that threatens to end their family line.","For two sisters from a family of witches, falling in love is the trickiest spell of all.","Title: Practical Magic
+
+Tagline: For two sisters from a family of witches, falling in love is the trickiest spell of all.
+
+Overview: Sally and Gillian Owens, born into a magical family, have mostly avoided witchcraft themselves. But when Gillian's vicious boyfriend, Jimmy Angelov, dies unexpectedly, the Owens sisters give themselves a crash course in hard magic. With policeman Gary Hallet growing suspicious, the girls struggle to resurrect Angelov -- and unwittingly inject his corpse with an evil spirit that threatens to end their family line.
+
+Genres: Romance, Fantasy, Comedy
+
+Collection: Practical Magic Collection
+
+Production Companies: Di Novi Pictures, Fortis Films, Village Roadshow Pictures, Warner Bros. Pictures
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt0120791,1998-10-16,1998,en,['US'],104,Released,"['Romance', 'Fantasy', 'Comedy']",['English'],['United States of America'],75000000,94400000,50.7798,6.81,1972,1354706.0,Practical Magic Collection,"[{'id': 813, 'name': 'Di Novi Pictures', 'origin_country': 'US'}, {'id': 4258, 'name': 'Fortis Films', 'origin_country': 'US'}, {'id': 79, 'name': 'Village Roadshow Pictures', 'origin_country': 'US'}, {'id': 174, 'name': 'Warner Bros. Pictures', 'origin_country': 'US'}]",https://www.warnerbros.com/movies/practical-magic,/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg,/4kbkq887XNT85d6nJonCnmXDWor.jpg,6435.json,802,115,False,False
+671,Harry Potter and the Philosopher's Stone,Harry Potter and the Philosopher's Stone,"Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",Let the magic begin.,"Title: Harry Potter and the Philosopher's Stone
+
+Tagline: Let the magic begin.
+
+Overview: Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.
+
+Genres: Adventure, Fantasy
+
+Collection: Harry Potter Collection
+
+Production Companies: Warner Bros. Pictures, Heyday Films, 1492 Pictures
+
+Production Countries: United Kingdom, United States of America
+
+Spoken Languages: English",tt0241527,2001-11-16,2001,en,['GB'],152,Released,"['Adventure', 'Fantasy']",['English'],"['United Kingdom', 'United States of America']",125000000,1029374615,53.3995,7.903,30277,1241.0,Harry Potter Collection,"[{'id': 174, 'name': 'Warner Bros. Pictures', 'origin_country': 'US'}, {'id': 437, 'name': 'Heyday Films', 'origin_country': 'GB'}, {'id': 436, 'name': '1492 Pictures', 'origin_country': 'US'}]",https://www.warnerbros.com/movies/harry-potter-and-sorcerers-stone,/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg,/lvOLivVeX3DVVcwfVkxKf0R22D8.jpg,671.json,726,110,False,True
+687163,Project Hail Mary,Project Hail Mary,"Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",Believe in the Hail Mary.,"Title: Project Hail Mary
+
+Tagline: Believe in the Hail Mary.
+
+Overview: Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.
+
+Genres: Science Fiction, Adventure
+
+Production Companies: Lord Miller, Amazon MGM Studios, Pascal Pictures, Open Invite Entertainment, Waypoint Entertainment
+
+Production Countries: United States of America
+
+Spoken Languages: Mandarin, English, Japanese, Russian, Spanish",tt12042730,2026-03-15,2026,en,['US'],157,Released,"['Science Fiction', 'Adventure']","['Mandarin', 'English', 'Japanese', 'Russian', 'Spanish']",['United States of America'],200000000,684234722,99.541,8.64,7953,,,"[{'id': 77973, 'name': 'Lord Miller', 'origin_country': 'US'}, {'id': 210099, 'name': 'Amazon MGM Studios', 'origin_country': 'US'}, {'id': 84041, 'name': 'Pascal Pictures', 'origin_country': 'US'}, {'id': 232193, 'name': 'Open Invite Entertainment', 'origin_country': 'US'}, {'id': 22842, 'name': 'Waypoint Entertainment', 'origin_country': 'US'}]",https://www.amazon.com/salp/projecthailmary?hhf,/yihdXomYb5kTeSivtFndMy5iDmf.jpg,/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg,687163.json,710,107,False,False
+693134,Dune: Part Two,Dune: Part Two,"Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",Long live the fighters.,"Title: Dune: Part Two
+
+Tagline: Long live the fighters.
+
+Overview: Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.
+
+Genres: Science Fiction, Adventure
+
+Collection: Dune Collection
+
+Production Companies: Legendary Pictures
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt15239678,2024-02-27,2024,en,['US'],167,Released,"['Science Fiction', 'Adventure']",['English'],['United States of America'],190000000,714844358,52.4718,8.136,8609,726871.0,Dune Collection,"[{'id': 923, 'name': 'Legendary Pictures', 'origin_country': 'US'}]",https://www.warnerbros.com/movies/dune-part-two,/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg,/eZ239CUp1d6OryZEBPnO2n87gMG.jpg,693134.json,554,85,False,False
+755898,War of the Worlds,War of the Worlds,"Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",Your data is deadly.,"Title: War of the Worlds
+
+Tagline: Your data is deadly.
+
+Overview: Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.
+
+Genres: Science Fiction, Thriller
+
+Production Companies: Universal Pictures, Bazelevs, Patrick Aiello Productions
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt13186306,2025-07-29,2025,en,['US'],91,Released,"['Science Fiction', 'Thriller']",['English'],['United States of America'],10000000,0,88.2424,4.032,1145,,,"[{'id': 33, 'name': 'Universal Pictures', 'origin_country': 'US'}, {'id': 109501, 'name': 'Bazelevs', 'origin_country': 'US'}, {'id': 59827, 'name': 'Patrick Aiello Productions', 'origin_country': 'US'}]",https://www.amazon.com/gp/video/detail/B0DMF7MXKT,/yvirUYrva23IudARHn3mMGVxWqM.jpg,/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg,755898.json,528,78,False,False
+76341,Mad Max: Fury Road,Mad Max: Fury Road,"An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",The future belongs to the mad.,"Title: Mad Max: Fury Road
+
+Tagline: The future belongs to the mad.
+
+Overview: An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.
+
+Genres: Action, Adventure, Science Fiction
+
+Collection: Mad Max Collection
+
+Production Companies: Warner Bros. Pictures, Village Roadshow Pictures, Kennedy Miller Mitchell, RatPac Entertainment
+
+Production Countries: Australia, United States of America
+
+Spoken Languages: English",tt1392190,2015-05-13,2015,en,"['AU', 'US']",121,Released,"['Action', 'Adventure', 'Science Fiction']",['English'],"['Australia', 'United States of America']",150000000,378858340,47.9577,7.638,24651,8945.0,Mad Max Collection,"[{'id': 174, 'name': 'Warner Bros. Pictures', 'origin_country': 'US'}, {'id': 79, 'name': 'Village Roadshow Pictures', 'origin_country': 'US'}, {'id': 28382, 'name': 'Kennedy Miller Mitchell', 'origin_country': 'AU'}, {'id': 41624, 'name': 'RatPac Entertainment', 'origin_country': 'US'}]",https://www.warnerbros.com/movies/mad-max-fury-road,/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg,/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg,76341.json,629,93,False,False
+813418,Hot Spot,Hot Spot,"Set in a near future society ruled by sentient A.I., a private eye investigates a murder case only to discover a rebel group capable of undermining the digital overlord. As the detective's identity slowly unravels, his world enters a state of hypnotic meltdown.",The system is unstable.,"Title: Hot Spot
+
+Tagline: The system is unstable.
+
+Overview: Set in a near future society ruled by sentient A.I., a private eye investigates a murder case only to discover a rebel group capable of undermining the digital overlord. As the detective's identity slowly unravels, his world enters a state of hypnotic meltdown.
+
+Genres: Science Fiction, Action, Crime, Fantasy, Thriller
+
+Production Companies: Madants, Neda Film, Film i Väst, Zentropa International Sweden
+
+Production Countries: Poland, Greece, Sweden
+
+Spoken Languages: English, French, Polish",tt14119302,2026-08-21,2026,en,['PL'],101,Released,"['Science Fiction', 'Action', 'Crime', 'Fantasy', 'Thriller']","['English', 'French', 'Polish']","['Poland', 'Greece', 'Sweden']",6000000,256350,59.0768,5.1,22,,,"[{'id': 86773, 'name': 'Madants', 'origin_country': 'PL'}, {'id': 86772, 'name': 'Neda Film', 'origin_country': 'GR'}, {'id': 2801, 'name': 'Film i Väst', 'origin_country': 'SE'}, {'id': 8288, 'name': 'Zentropa International Sweden', 'origin_country': 'SE'}]",https://www.focusfeatures.com/hot-spot,/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg,/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg,813418.json,556,80,False,False
+82976,The Novices,Les Novices,"Sister Agnès runs away from her convent in Brittany and seeks refuge in Paris with prostitute Mona Lisa. With absolutely no qualifications, the young novice has a hard job finding work, so Mona Lisa tries to teach her the ropes of the oldest profession of them all!",,"Title: The Novices
+
+Original Title: Les Novices
+
+Overview: Sister Agnès runs away from her convent in Brittany and seeks refuge in Paris with prostitute Mona Lisa. With absolutely no qualifications, the young novice has a hard job finding work, so Mona Lisa tries to teach her the ropes of the oldest profession of them all!
+
+Genres: Comedy, Drama
+
+Production Companies: Les Films La Boétie, Rizzoli Film
+
+Production Countries: France, Italy
+
+Spoken Languages: French",tt0066164,1970-04-01,1970,fr,['FR'],91,Released,"['Comedy', 'Drama']",['French'],"['France', 'Italy']",0,0,126.3859,4.8,13,,,"[{'id': 18477, 'name': 'Les Films La Boétie', 'origin_country': 'FR'}, {'id': 1131, 'name': 'Rizzoli Film', 'origin_country': 'IT'}]",,/a2SnSbRxMB4vktOxZapaspY2fTC.jpg,/yhGCxn4pYIQhK52g6JjM4bL9fVX.jpg,82976.json,467,73,False,True
+83533,Avatar: Fire and Ash,Avatar: Fire and Ash,"In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",The world of Pandora will change forever.,"Title: Avatar: Fire and Ash
+
+Tagline: The world of Pandora will change forever.
+
+Overview: In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.
+
+Genres: Science Fiction, Adventure, Fantasy
+
+Collection: Avatar Collection
+
+Production Companies: 20th Century Studios, Lightstorm Entertainment, TSG Entertainment
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt1757678,2025-12-17,2025,en,['US'],198,Released,"['Science Fiction', 'Adventure', 'Fantasy']",['English'],['United States of America'],350000000,1485999890,73.0704,7.644,4368,87096.0,Avatar Collection,"[{'id': 127928, 'name': '20th Century Studios', 'origin_country': 'US'}, {'id': 574, 'name': 'Lightstorm Entertainment', 'origin_country': 'US'}, {'id': 22213, 'name': 'TSG Entertainment', 'origin_country': 'US'}]",https://www.avatar.com/movies/avatar-fire-and-ash,/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg,/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg,83533.json,692,105,False,False
+860508,The Whisper Man,The Whisper Man,"When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.","If you leave a door half open, soon you'll hear the whispers spoken.","Title: The Whisper Man
+
+Tagline: If you leave a door half open, soon you'll hear the whispers spoken.
+
+Overview: When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.
+
+Genres: Crime, Drama, Thriller
+
+Production Companies: AGBO
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt11561116,2026-08-27,2026,en,['US'],111,Released,"['Crime', 'Drama', 'Thriller']",['English'],['United States of America'],50000000,0,54.9473,6.872,786,,,"[{'id': 106544, 'name': 'AGBO', 'origin_country': 'US'}]",https://www.netflix.com/title/81278442,/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg,/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg,860508.json,401,62,False,False
+863,Toy Story 2,Toy Story 2,"Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",The toys are back!,"Title: Toy Story 2
+
+Tagline: The toys are back!
+
+Overview: Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.
+
+Genres: Animation, Comedy, Family
+
+Collection: Toy Story Collection
+
+Production Companies: Pixar
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt0120363,1999-10-30,1999,en,['US'],92,Released,"['Animation', 'Comedy', 'Family']",['English'],['United States of America'],90000000,497375404,46.7861,7.623,15389,10194.0,Toy Story Collection,"[{'id': 3, 'name': 'Pixar', 'origin_country': 'US'}]",http://toystory.disney.com/toy-story-2,/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg,/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg,863.json,554,87,False,False
+895954,母女汽车中心,莫尼卡中心,"Yeon Ja, a working mother, runs a car center after divorce and is raising her daughter all by herself. Her daughter, Ah Jung, started helping her when she became an adult, however, the customers don't trust weak-looking women to touch machines and the business at the car center is slow. Thanks to Ah Jung's punk boyfriend, Sung Hoon, they came up with an idea to turn the car center into a sexy car center.",,"Title: 母女汽车中心
+
+Original Title: 莫尼卡中心
+
+Overview: Yeon Ja, a working mother, runs a car center after divorce and is raising her daughter all by herself. Her daughter, Ah Jung, started helping her when she became an adult, however, the customers don't trust weak-looking women to touch machines and the business at the car center is slow. Thanks to Ah Jung's punk boyfriend, Sung Hoon, they came up with an idea to turn the car center into a sexy car center.
+
+Genres: Romance
+
+Spoken Languages: Korean",,2021-01-01,2021,ko,['KR'],87,Released,['Romance'],['Korean'],[],0,0,52.056,4.0,1,,,[],,/saca8CL9kk22AS5BfMbwSYgMvdp.jpg,,895954.json,498,85,True,False
+936075,Michael,Michael,"The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",Discover the making of a king.,"Title: Michael
+
+Tagline: Discover the making of a king.
+
+Overview: The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.
+
+Genres: Music, Drama
+
+Collection: Michael Collection
+
+Production Companies: Lionsgate, GK Films, Optimum Productions
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt11378946,2026-04-22,2026,en,['US'],128,Released,"['Music', 'Drama']",['English'],['United States of America'],250000000,1042616139,53.8699,8.629,4406,1687197.0,Michael Collection,"[{'id': 1632, 'name': 'Lionsgate', 'origin_country': 'US'}, {'id': 3281, 'name': 'GK Films', 'origin_country': 'US'}, {'id': 19222, 'name': 'Optimum Productions', 'origin_country': 'US'}]",https://michael.movie,/dueFqKLvjftnELZaGYwY7xinfaI.jpg,/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg,936075.json,704,106,False,False
+969681,Spider-Man: Brand New Day,Spider-Man: Brand New Day,Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.,A brand new day starts now.,"Title: Spider-Man: Brand New Day
+
+Tagline: A brand new day starts now.
+
+Overview: Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.
+
+Genres: Science Fiction, Action, Adventure
+
+Collection: Spider-Man (MCU) Collection
+
+Production Companies: Marvel Studios, Columbia Pictures, Pascal Pictures, TSG Entertainment
+
+Production Countries: United States of America
+
+Spoken Languages: English",tt22084616,2026-07-29,2026,en,['US'],145,Released,"['Science Fiction', 'Action', 'Adventure']",['English'],['United States of America'],225000000,2478502286,633.5085,7.9,2866,531241.0,Spider-Man (MCU) Collection,"[{'id': 420, 'name': 'Marvel Studios', 'origin_country': 'US'}, {'id': 5, 'name': 'Columbia Pictures', 'origin_country': 'US'}, {'id': 84041, 'name': 'Pascal Pictures', 'origin_country': 'US'}, {'id': 22213, 'name': 'TSG Entertainment', 'origin_country': 'US'}]",https://spidermanbrandnewday.movie,/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg,/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg,969681.json,705,109,False,True
+980431,Avatar Aang: The Last Airbender,Avatar Aang: The Last Airbender,"Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",The legacy reawakens.,"Title: Avatar Aang: The Last Airbender
+
+Tagline: The legacy reawakens.
+
+Overview: Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.
+
+Genres: Animation, Adventure, Fantasy, Action
+
+Collection: Avatar Aang: The Last Airbender Collection
+
+Production Companies: Nickelodeon Movies, Paramount Pictures, Flying Bark Productions, Studio Mir, Avatar Studios
+
+Production Countries: United States of America, South Korea, Australia
+
+Spoken Languages: English",tt18259538,2026-07-24,2026,en,['US'],99,Released,"['Animation', 'Adventure', 'Fantasy', 'Action']",['English'],"['United States of America', 'South Korea', 'Australia']",0,0,75.6223,9.15,1185,1136366.0,Avatar Aang: The Last Airbender Collection,"[{'id': 2348, 'name': 'Nickelodeon Movies', 'origin_country': 'US'}, {'id': 4, 'name': 'Paramount Pictures', 'origin_country': 'US'}, {'id': 20187, 'name': 'Flying Bark Productions', 'origin_country': 'AU'}, {'id': 58209, 'name': 'Studio Mir', 'origin_country': 'KR'}, {'id': 149943, 'name': 'Avatar Studios', 'origin_country': 'US'}]",https://www.paramountplus.com/movies/video/ALVE01KRF3YJMCEJB92T78193MJ4HP,/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg,/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg,980431.json,690,99,False,False
