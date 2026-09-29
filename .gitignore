@@ -12,8 +12,9 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Local data
-# remove from gi once you expand your dataset and add to .gitignore
+# Local data DO NOT commit data folder
+data/raw/*
+data/structured/*
 
 # Databases / vector stores
 *.db
