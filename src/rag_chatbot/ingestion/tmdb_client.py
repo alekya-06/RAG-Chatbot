@@ -2,6 +2,7 @@ import json
 import os
 import subprocess
 import time
+from urllib.parse import urlencode
 
 from dotenv import load_dotenv
 
@@ -29,7 +30,7 @@ class TMDBClient:
 
     def _request(self, endpoint: str) -> dict:
         url = f"{self.BASE_URL}/{endpoint.lstrip('/')}"
-    
+
         command = [
             "curl.exe",
             "-4",
@@ -45,47 +46,47 @@ class TMDBClient:
             "-H",
             "accept: application/json",
         ]
-    
+
         last_error = None
-    
+
         for attempt in range(1, self.max_attempts + 1):
             result = subprocess.run(
                 command,
                 capture_output=True,
             )
-    
+
             if result.returncode == 0:
                 try:
                     response_text = result.stdout.decode("utf-8")
                     return json.loads(response_text)
-    
+
                 except UnicodeDecodeError as exc:
                     raise RuntimeError(
-                        f"TMDB returned data that could not be decoded as UTF-8.\n"
+                        "TMDB returned data that could not be decoded as UTF-8.\n"
                         f"Endpoint: {endpoint}"
                     ) from exc
-    
+
                 except json.JSONDecodeError as exc:
                     raise RuntimeError(
-                        f"TMDB returned invalid JSON.\n"
+                        "TMDB returned invalid JSON.\n"
                         f"Endpoint: {endpoint}\n"
                         f"Response: {result.stdout[:500]!r}"
                     ) from exc
-    
+
             last_error = result.stderr.decode(
                 "utf-8",
                 errors="replace",
             ).strip()
-    
+
             if attempt < self.max_attempts:
                 delay = self.retry_delay * (2 ** (attempt - 1))
-    
+
                 print(
                     f"TMDB request failed "
                     f"(attempt {attempt}/{self.max_attempts}). "
                     f"Retrying in {delay:.1f}s..."
                 )
-    
+
                 time.sleep(delay)
 
         raise RuntimeError(
@@ -94,8 +95,27 @@ class TMDBClient:
             f"Last error: {last_error}"
         )
 
-    def discover_movies(self, page: int = 1) -> dict:
-        return self._request(f"discover/movie?page={page}")
+    def discover_movies(
+        self,
+        page: int = 1,
+        **filters,
+    ) -> dict:
+        params = {
+            "page": page,
+            **filters,
+        }
+
+        query_string = urlencode(
+            {
+                key: value
+                for key, value in params.items()
+                if value is not None
+            }
+        )
+
+        return self._request(
+            f"discover/movie?{query_string}"
+        )
 
     def get_movie(self, movie_id: int) -> dict:
         return self._request(f"movie/{movie_id}")
