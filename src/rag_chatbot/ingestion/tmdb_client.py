@@ -117,5 +117,15 @@ class TMDBClient:
             f"discover/movie?{query_string}"
         )
 
-    def get_movie(self, movie_id: int) -> dict:
-        return self._request(f"movie/{movie_id}")
+    def get_movie(
+        self,
+        movie_id: int,
+    ) -> dict:
+        """
+        Fetch movie details along with credits and keywords.
+        """
+
+        return self._request(
+            f"movie/{movie_id}"
+            "?append_to_response=credits,keywords"
+        )

@@ -5,7 +5,7 @@ from pathlib import Path
 from tmdb_client import TMDBClient
 
 
-RAW_MOVIE_DIR = Path("../data/raw/tmdb/movies")
+RAW_MOVIE_DIR = Path("data/raw/tmdb/movies")
 
 
 class TMDBIngestionPipeline:
@@ -142,13 +142,14 @@ class TMDBIngestionPipeline:
     def ingest_movie(
         self,
         movie_id: int,
+        force: bool = False,
     ) -> None:
 
         output_path = (
             RAW_MOVIE_DIR / f"{movie_id}.json"
         )
 
-        if output_path.exists():
+        if output_path.exists() and not force:
             return
 
         movie = self.client.get_movie(movie_id)
@@ -158,6 +159,7 @@ class TMDBIngestionPipeline:
     def ingest_movies(
         self,
         movie_ids: list[int],
+        force: bool = False,
     ) -> None:
 
         total = len(movie_ids)
@@ -174,7 +176,15 @@ class TMDBIngestionPipeline:
             )
 
             try:
-                self.ingest_movie(movie_id)
+                self.ingest_movie(
+                    movie_id,
+                    force=force,
+                )
+
+                if force:
+                    print(
+                        f"  Refreshed movie {movie_id}"
+                    )
 
             except RuntimeError as exc:
 
@@ -207,3 +217,4 @@ class TMDBIngestionPipeline:
             print(
                 "\nIngestion completed successfully."
             )
+

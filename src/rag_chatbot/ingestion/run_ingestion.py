@@ -101,12 +101,10 @@ DISCOVERY_STRATEGIES = [
 
 def main():
     pipeline = TMDBIngestionPipeline()
-
     movie_ids = pipeline.discover_movie_ids(strategies=DISCOVERY_STRATEGIES,
                                             pages_per_strategy=3)
     print(f"Discovered {len(movie_ids)} movies.")
-    pipeline.ingest_movies(movie_ids)
-
+    pipeline.ingest_movies(movie_ids, force=True)
 
 if __name__ == "__main__":
     main()
