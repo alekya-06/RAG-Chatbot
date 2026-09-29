@@ -5,7 +5,7 @@ from pathlib import Path
 from tmdb_client import TMDBClient
 
 
-RAW_MOVIE_DIR = Path("data/raw/tmdb/movies")
+RAW_MOVIE_DIR = Path("../data/raw/tmdb/movies")
 
 
 class TMDBIngestionPipeline:
