@@ -1,0 +1,8 @@
+{
+  "model": "BAAI/bge-small-en-v1.5",
+  "dimension": 384,
+  "metric": "inner_product",
+  "normalized": true,
+  "index_type": "IndexIDMap2(IndexFlatIP)",
+  "count": 547
+}
