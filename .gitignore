@@ -15,6 +15,7 @@ __pycache__/
 # Local data DO NOT commit data folder
 data/raw/*
 data/structured/*
+data/vector_store/*.faiss
 
 # Databases / vector stores
 *.db
